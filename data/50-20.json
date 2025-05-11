@@ -15,7 +15,7 @@
             "secs": 30,
             "milisecs": "000",
             "date": "08/04/2022"
-			"percent": 100
+			"percent":100
         },
         {
             "user": "Le Roi Boo Lorrain",
@@ -24,7 +24,7 @@
             "secs": 30,
             "milisecs": "000",
             "date": "21/04/2023"
-			"percent": 100
+			"percent": "100"
         },
         {
             "user": "SpatioXhadow",
@@ -33,7 +33,7 @@
             "secs": 30,
             "milisecs": "000",
             "date": "08/10/2024"
-			"percent": 100
+			"percent": "100"
         }
     ]
 }
