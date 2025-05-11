@@ -18,8 +18,9 @@
         {
             "user": "SpatioXhadow",
             "link": "https://www.youtube.com/watch?v=bwgrUgUe-ZM",
-            "percent": 100,
-            "hz": 120
+            "mins": 4,
+            "secs": 30,
+            "milisecs": "000"
         }
     ]
 }
