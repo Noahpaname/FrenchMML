@@ -1,0 +1,21 @@
+{
+    "id": "https://gamejolt.com/games/fnafslcn/804462",
+    "name": "Funtime Gala Hard Mode",
+    "author": "FNaF SL CN",
+    "creators": ["Shooter25", "Scott Cawthon (animdude)"],
+    "verifier": "Schokie",
+    "verification": "https://www.youtube.com/watch?v=h8Z6ZOEw-Bs",
+    "percentToQualify": "100",
+    "password": "6 minutes",
+    "records": [
+        {
+            "user": "[Alexion]",
+            "link": "https://www.youtube.com/watch?v=v4LvCuWl5YU",
+            "mins": 6,
+            "secs": 00,
+            "milisecs": "000",
+            "date": "10/05/2025",
+			      "percent": "100"
+        }
+    ]
+}
