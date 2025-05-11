@@ -11,8 +11,9 @@
         {
             "user": "Le Roi Boo Lorrain",
             "link": "https://www.youtube.com/watch?v=FdkY3ZWcPC0",
-            "percent": 100,
-            "hz": 360
+            "mins": 4,
+            "secs": 30,
+            "milisecs": "000"
         },
         {
             "user": "SpatioXhadow",
