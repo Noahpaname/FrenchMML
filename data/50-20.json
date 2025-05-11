@@ -1,1 +1,24 @@
-
+{
+    "id": 57436521,
+    "name": "50/20",
+    "author": "Ultimate Custom Night",
+    "creators": ["Scott Cawthon (animdude)"],
+    "verifier": "Schokie",
+    "verification": "https://www.youtube.com/watch?v=1uHWdmzUfGc",
+    "percentToQualify": "100",
+    "password": "46290",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Sample_Victor_2",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
