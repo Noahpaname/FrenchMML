@@ -1,0 +1,30 @@
+{
+    "id": "https://gamejolt.com/games/fnacbetter/729972",
+    "name": "7/20",
+    "author": "FNaC 1 Custom Night",
+    "creators": ["Mr. Manatee"],
+    "verifier": "Schokie",
+    "verification": "https://www.youtube.com/watch?v=JLUuUMmerqo",
+    "percentToQualify": "100",
+    "password": "6 minutes",
+    "records": [
+        {
+            "user": "Le Roi Boo Lorrain",
+            "link": "https://www.youtube.com/watch?v=1y42ik0iuhs",
+            "mins": 6,
+            "secs": 0,
+            "milisecs": "000",
+            "date": "16/12/2024",
+			      "percent": "100"
+        },
+        {
+            "user": "[Alexion]",
+            "link": "https://www.youtube.com/watch?v=rqA-Y2I2lJ8",
+            "mins": 6,
+            "secs": 0,
+            "milisecs": "000",
+            "date": "12/05/2025",
+			      "percent": "100"
+        }
+    ]
+}
