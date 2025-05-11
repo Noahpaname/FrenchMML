@@ -38,7 +38,6 @@ export default {
             </div>
             <div class="level-container">
                 <div class="level" v-if="level">
-                    <script>var link = {{level.id}}</script>
                     <h1>{{ level.name }}</h1>
                     <LevelAuthors :author="level.author" :creators="level.creators" :verifier="level.verifier"></LevelAuthors>
                     <iframe class="video" id="videoframe" :src="video" frameborder="0"></iframe>
@@ -49,7 +48,7 @@ export default {
                         </li>
                         <li>
                             <div class="type-title-sm">Game Link</div>
-                            <a href={{link}}>{{ level.author }}</a>
+                            <a href=level?.id>{{ level.author }}</a>
                         </li>
                         <li>
                             <div class="type-title-sm">Duration</div>
