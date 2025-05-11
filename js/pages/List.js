@@ -48,7 +48,7 @@ export default {
                         </li>
                         <li>
                             <div class="type-title-sm">Game Link</div>
-                            <a href="level.id">{{ level.author }}</a>
+                            <a href="{{level.id}}">{{ level.author }}</a>
                         </li>
                         <li>
                             <div class="type-title-sm">Duration</div>
