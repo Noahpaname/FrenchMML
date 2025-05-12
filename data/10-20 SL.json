@@ -1,29 +1,29 @@
 {
-    "id": "https://gamejolt.com/games/fnacbetter/729972",
-    "name": "7/20",
-    "author": "FNaC 1 Custom Night",
-    "creators": ["Mr. Manatee"],
+    "id": "https://store.steampowered.com/app/506610/Five_Nights_at_Freddys_Sister_Location/",
+    "name": "Golden Freddy V.Hard",
+    "author": "Five Nights at Freddy's: Sister Location",
+    "creators": ["Scott Cawthon (animdude)"],
     "verifier": "Schokie",
-    "verification": "https://www.youtube.com/watch?v=JLUuUMmerqo",
+    "verification": "https://www.youtube.com/watch?v=zF-D0RAp3i0",
     "percentToQualify": "100",
     "password": "6 minutes",
     "records": [
         {
-            "user": "Le Roi Boo Lorrain",
-            "link": "https://www.youtube.com/watch?v=1y42ik0iuhs",
+            "user": "KD",
+            "link": "https://www.youtube.com/watch?v=YixZN7OHQ_A&t=3308",
             "mins": 6,
             "secs": 0,
             "milisecs": "000",
-            "date": "16/12/2024",
+            "date": "7/01/2024",
 			      "percent": "100"
         },
         {
-            "user": "[Alexion]",
-            "link": "https://www.youtube.com/watch?v=rqA-Y2I2lJ8",
+            "user": "Le Roi Boo Lorrain",
+            "link": "https://www.youtube.com/watch?v=lFCFm-K7dtY&t=6426",
             "mins": 6,
             "secs": 0,
             "milisecs": "000",
-            "date": "12/05/2025",
+            "date": "25/01/2024",
 			      "percent": "100"
         }
     ]
