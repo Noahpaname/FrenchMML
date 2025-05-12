@@ -84,7 +84,7 @@ export default {
                     </div>
                     <div class="og">
                         <p class="type-label-md">Website layout made by <a href="https://tsl.pages.dev/" target="_blank">TheShittyList</a>. Edited By <a href="https://www.youtube.com/@Noahpaname_FR">Renoah</a></p>
-                        <img src="https://media1.tenor.com/m/RaMKetcZVCAAAAAC/fnaf-2-puppet-gangnam-style.gifS"></img>
+                        <img src="https://media1.tenor.com/m/RaMKetcZVCAAAAAC/fnaf-2-puppet-gangnam-style.gifS" width=72 height=72></img>
                     </div>
                     <template v-if="editors">
                         <h3>List Editors</h3>
