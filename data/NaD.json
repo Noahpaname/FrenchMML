@@ -1,0 +1,39 @@
+{
+    "id": "https://gamejolt.com/games/trtf2reworked/668953",
+    "name": "Nightmare at Disney",
+    "author": "FNATI, But Dumb!",
+    "creators": ["CesarZ"],["SpawnRusher"]
+    "verifier": "Lapointure",
+    "verification": "https://www.youtube.com/watch?v=rF_eyllRYRc",
+    "percentToQualify": "100",
+    "password": "7 minutes",
+    "records": [
+	{
+		"user": "Schokie",
+		"link": "https://www.youtube.com/watch?v=-kcAGC1SPLo",
+		"mins": 7,
+		"secs": 0,
+		"milisecs": "000",
+		"date": "04/01/2025",
+		"percent": "100"
+	},
+	{
+		"user": "Renoah",
+		"link": "https://www.youtube.com/watch?v=iZzNX0jefQY",
+		"mins": 7,
+		"secs": 0,
+		"milisecs": "000",
+		"date": "20/07/2025",
+		"percent": "100"
+	},
+	{
+		"user": "zThunder",
+		"link": "https://www.youtube.com/watch?v=UR4B9OKepyo",
+		"mins": 7,
+		"secs": 0,
+		"milisecs": "000",
+		"date": "24/07/2025",
+		"percent": "100"
+	},
+    ]
+}
