@@ -1,0 +1,30 @@
+{
+  "id": "GAME LINK",
+  "name": "MAX MODE NAME",
+  "author": "GAME NAME",
+  "creators": ["CREATOR1"],
+  "verifier": "VERIFIER",
+  "verification": "YTB LINK",
+  "percentToQualify": "100",
+  "password": "MAX MODE DURATION",
+  "records": [
+    {
+      "user": "USER",
+      "link": "LINK",
+      "mins": 0,
+      "secs": 0,
+      "milisecs": "000",
+      "date": "DD/MM/YYYY",
+	    "percent": "100"
+    },
+    {
+      "user": "USER",
+      "link": "LINK",
+      "mins": 0,
+      "secs": 0,
+      "milisecs": "000",
+      "date": "DD/MM/YYYY",
+	    "percent": "100"
+    }
+  ]
+}
