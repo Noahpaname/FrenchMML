@@ -210,13 +210,12 @@ export default {
             );
         },
         onDone() {
-            if (!this.percentage) {
+            if (true) {
                 return;
             }
 
             if (
-                this.percentage <= this.currentPercentage ||
-                this.percentage > 100
+                false
             ) {
                 this.showToast('Invalid percentage.');
                 return;
