@@ -1,0 +1,30 @@
+{
+    "id": "https://gamejolt.com/games/trtf2reworked/668953",
+    "name": "Hyper Showdown",
+    "author": "Five Nights at Freddy's 1 Super Custom Night",
+    "creators": ["astraces."],
+    "verifier": "Schokie",
+    "verification": "https://www.youtube.com/watch?v=FDXodsRVlBk",
+    "percentToQualify": "100",
+    "password": "6 minutes",
+    "records": [
+	{
+		"user": "[Alexion]",
+		"link": "https://www.youtube.com/watch?v=LChbgaAdOYA",
+		"mins": 6,
+		"secs": 0,
+		"milisecs": "000",
+		"date": "04/01/2025",
+		"percent": "100"
+	},
+	{
+		"user": "Le Roi Boo Lorrain",
+		"link": "https://www.youtube.com/watch?v=bcaikPxDPas",
+		"mins": 6,
+		"secs": 0,
+		"milisecs": "000",
+		"date": "18/07/2025",
+		"percent": "100"
+	}
+    ]
+}
