@@ -22,7 +22,7 @@ export default {
             <template v-if="selfVerified">
                 <div class="type-title-sm">Creator & Verifier</div>
                 <p class="type-body">
-                    <span>{{ author }}</span>
+                    <span>{{ verifier }}</span>
                 </p>
             </template>
             <template v-else-if="creators.length === 0">
@@ -51,6 +51,11 @@ export default {
             <div class="type-title-sm">Game</div>
             <p class="type-body">
                 <span>{{ author }}</span>
+            </p>
+            </template>
+            <div class="type-title-sm">Game</div>
+            <p class="type-body">
+                <span>{{ date }}</span>
             </p>
         </div>
     `,
