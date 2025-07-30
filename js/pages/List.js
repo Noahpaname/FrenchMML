@@ -88,7 +88,7 @@ export default {
                         <img src="https://media.tenor.com/SOW8irMXPZkAAAAi/catpls-meme.gif" width=128 height=128></img>
                     </div>
                     <template v-if="editors">
-                        <h3>List Editors</h3>
+                        <h3>Editeurs de liste</h3>
                         <ol class="editors">
                             <li v-for="editor in editors">
                                 <img :src="\`/assets/\${roleIconMap[editor.role]}\${store.dark ? '-dark' : ''}.svg\`" :alt="editor.role">
@@ -97,12 +97,25 @@ export default {
                             </li>
                         </ol>
                     </template>
-                    <h3>Submission Requirements</h3>
+                    <h3>Règles:</h3>
                     <p>
-                        Achieved the record without using hacks (however, Shooter25's FNaF Timer and LiveSplit are allowed)
+                        Cette liste ne doit pas contenir de Max Modes "Self-Imposed", c'est-à-dire que le max mode doit avoir une récompense en jeu pour qu'elle soit présente dans la liste.
                     </p>
                     <p>
-                        Highly edited audio & video aren't allowed
+                        Il faut que le jeu (ou le mod) soit téléchargable pour le rendre accessible à tout le monde.
+                    </p>
+                    <p>
+                        Même chose pour la vidéo. Faites qu'elle soit accessible à tous via un lien. (ducoup les vidéos non-repertoriées sont autorisés)
+                    </p>
+                    <h3>Exigences pour la complétion</h3>
+                    <p>
+                        La run doit être complète, c'est-à-dire que la run doit commencer au début du challenge jusqu'à l'endscreen.
+                    </p>
+                    <p>
+                        Il ne doit y avoir aucun montage pendant le gameplay.
+                    </p>
+                    <p>
+                        Il est conseillé de spécifier la date de la comlétion dans la description quand la date de publication n'est pas la même. Si ce n'est pas le cas, on prend la date de publication.
                     </p>
                 </div>
             </div>
