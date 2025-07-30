@@ -99,9 +99,6 @@ export default {
                     </template>
                     <h3>Règles:</h3>
                     <p>
-                        Cette liste ne doit pas contenir de Max Modes "Self-Imposed", c'est-à-dire que le max mode doit avoir une récompense en jeu pour qu'elle soit présente dans la liste.
-                    </p>
-                    <p>
                         Il faut que le jeu (ou le mod) soit téléchargable pour le rendre accessible à tout le monde.
                     </p>
                     <p>
