@@ -59,19 +59,19 @@ export default {
                             <div class="meta">
                                 <p>#{{ currentLevel.rank }}</p>
                                 <h2>{{ currentLevel.name }}</h2>
-                                <p>{{ currentLevel.id }}</p>
+                                <p>{{ currentLevel.author }}</p>
                             </div>
                             <form class="actions" v-if="!givenUp">
-                                <input type="number" v-model="percentage" :placeholder="placeholder" :min="currentPercentage + 1" max=100>
-                                <Btn @click.native.prevent="onDone">Done</Btn>
-                                <Btn @click.native.prevent="onGiveUp" style="background-color: #e91e63;">Give Up</Btn>
+                                <input type="string" v-model="percentage" :placeholder="placeholder" :min="currentPercentage + 1" max=100>
+                                <Btn @click.native.prevent="onDone">Fait</Btn>
+                                <Btn @click.native.prevent="onGiveUp" style="background-color: #e91e63;">Abandoner</Btn>
                             </form>
                         </div>
                         <!-- Results -->
                         <div v-if="givenUp || hasCompleted" class="results">
-                            <h1>Results</h1>
-                            <p>Number of levels: {{ progression.length }}</p>
-                            <p>Highest percent: {{ currentPercentage }}%</p>
+                            <h1>Résultats</h1>
+                            <p>Maxmodes Fait: {{ progression.length }}</p>
+                            <p>Meilleur Temps: {{ currentPercentage }}%</p>
                             <Btn v-if="currentPercentage < 99 && !hasCompleted" @click.native.prevent="showRemaining = true">Show remaining levels</Btn>
                         </div>
                         <!-- Remaining Levels -->
@@ -137,7 +137,7 @@ export default {
             return this.progression[this.progression.length - 1] || 0;
         },
         placeholder() {
-            return `At least ${this.currentPercentage + 1}%`;
+            return `Au moins 1 minutes`;
         },
         hasCompleted() {
             return (
