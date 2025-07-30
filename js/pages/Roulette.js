@@ -62,7 +62,7 @@ export default {
                                 <p>{{ currentLevel.author }}</p>
                             </div>
                             <form class="actions" v-if="!givenUp">
-                                <input type="string" v-model="percentage" :placeholder="placeholder" :min="currentPercentage + 1" max=100>
+                                <input type="string" v-model="percentage" :placeholder="placeholder">
                                 <Btn @click.native.prevent="onDone">Fait</Btn>
                                 <Btn @click.native.prevent="onGiveUp" style="background-color: #e91e63;">Abandoner</Btn>
                             </form>
@@ -72,7 +72,6 @@ export default {
                             <h1>Résultats</h1>
                             <p>Maxmodes Fait: {{ progression.length }}</p>
                             <p>Meilleur Temps: {{ currentPercentage }}%</p>
-                            <Btn v-if="currentPercentage < 99 && !hasCompleted" @click.native.prevent="showRemaining = true">Show remaining levels</Btn>
                         </div>
                         <!-- Remaining Levels -->
                         <template v-if="givenUp && showRemaining">
