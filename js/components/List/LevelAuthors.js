@@ -53,7 +53,7 @@ export default {
                 <span>{{ author }}</span>
             </p>
             </template>
-            <div class="type-title-sm">Game</div>
+            <div class="type-title-sm">Done on</div>
             <p class="type-body">
                 <span>{{ date }}</span>
             </p>
