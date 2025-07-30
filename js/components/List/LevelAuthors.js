@@ -12,6 +12,10 @@ export default {
             type: String,
             required: true,
         },
+        date: {
+            type: String,
+            required: true,
+        },
     },
     template: `
         <div class="level-authors">
