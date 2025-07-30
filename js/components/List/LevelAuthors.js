@@ -36,24 +36,24 @@ export default {
                 </p>
             </template>
             <template v-else>
-                <div class="type-title-sm">Creators</div>
+                <div class="type-title-sm">Créateur(s)</div>
                 <p class="type-body">
                     <template v-for="(creator, index) in creators" :key="\`creator-\$\{creator\}\`">
                         <span >{{ creator }}</span
                         ><span v-if="index < creators.length - 1">, </span>
                     </template>
                 </p>
-                <div class="type-title-sm">Verifier</div>
+                <div class="type-title-sm">Verifieur</div>
                 <p class="type-body">
                     <span>{{ verifier }}</span>
                 </p>
             </template>
-            <div class="type-title-sm">Game</div>
+            <div class="type-title-sm">Jeu</div>
             <p class="type-body">
                 <span>{{ author }}</span>
             </p>
             </template>
-            <div class="type-title-sm">Done on</div>
+            <div class="type-title-sm">Fait le</div>
             <p class="type-body">
                 <span>{{ date }}</span>
             </p>
