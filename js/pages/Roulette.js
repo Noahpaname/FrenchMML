@@ -83,7 +83,7 @@ export default {
                                 <div class="meta">
                                     <p>#{{ level.rank }}</p>
                                     <h2>{{ level.name }}</h2>
-                                    <p style="color: #d50000; font-weight: 700">{{ currentPercentage + 2 + i }}%</p>
+                                    <p style="color: #d50000; font-weight: 700">{{ currentPercentage + 2 + i }}</p>
                                 </div>
                             </div>
                         </template>
