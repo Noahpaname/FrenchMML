@@ -48,7 +48,7 @@ export default {
                         </li>
                         <li>
                             <div class="type-title-sm">Game Link</div>
-                            <a :href="level.id" target="_blank" class="type=label-lg">{{ level.id }}</a>
+                            <a :href="level.id" target="_blank" class="type=label-lg">{{ level.author }}</a>
                         </li>
                         <li>
                             <div class="type-title-sm">Duration</div>
