@@ -210,7 +210,7 @@ export default {
             );
         },
         onDone() {
-            if (true) {
+            if (!this.percentage) {
                 return;
             }
 
