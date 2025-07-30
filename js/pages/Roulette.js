@@ -48,7 +48,7 @@ export default {
                             <div class="meta">
                                 <p>#{{ level.rank }}</p>
                                 <h2>{{ level.name }}</h2>
-                                <p style="color: #00b54b; font-weight: 700">{{ progression[i] }}%</p>
+                                <p style="color: #00b54b; font-weight: 700">{{ progression[i] }}</p>
                             </div>
                         </div>
                         <!-- Current Level -->
@@ -71,7 +71,6 @@ export default {
                         <div v-if="givenUp || hasCompleted" class="results">
                             <h1>Résultats</h1>
                             <p>Maxmodes Fait: {{ progression.length }}</p>
-                            <p>Meilleur Temps: {{ currentPercentage }}%</p>
                         </div>
                         <!-- Remaining Levels -->
                         <template v-if="givenUp && showRemaining">
@@ -140,8 +139,7 @@ export default {
         },
         hasCompleted() {
             return (
-                this.progression[this.progression.length - 1] >= 100 ||
-                this.progression.length === this.levels.length
+                false
             );
         },
         isActive() {
