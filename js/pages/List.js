@@ -43,15 +43,15 @@ export default {
                     <iframe class="video" id="videoframe" :src="video" frameborder="0"></iframe>
                     <ul class="stats">
                         <li>
-                            <div class="type-title-sm">Points when completed</div>
+                            <div class="type-title-sm">Points récolté à la complétion</div>
                             <p>{{ score(selected + 1, 100, level.percentToQualify) }}</p>
                         </li>
                         <li>
-                            <div class="type-title-sm">Game Link</div>
+                            <div class="type-title-sm">Lien du jeu</div>
                             <a :href="level.id" target="_blank" class="type=label-lg">{{ level.author }}</a>
                         </li>
                         <li>
-                            <div class="type-title-sm">Duration</div>
+                            <div class="type-title-sm">Durée</div>
                             <p>{{ level.password }}</p>
                         </li>
                     </ul>
@@ -59,7 +59,7 @@ export default {
                     <table class="records">
                         <tr v-for="record in level.records" class="record">
                             <td class="percent">
-                                <p>Completed ({{ record.date }})</p>
+                                <p>({{ record.date }})</p>
                             </td>
                             <td class="user">
                                 <a :href="record.link" target="_blank" class="type-label-lg">{{ record.user }}</a>
