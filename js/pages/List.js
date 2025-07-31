@@ -115,7 +115,7 @@ export default {
                         Il est conseillé de spécifier la date de la comlétion dans la description quand la date de publication n'est pas la même. Si ce n'est pas le cas, on prend la date de publication.
                     </p>
                     <p>
-                        <a href="https://docs.google.com/spreadsheets/d/16T3-m4sDW2ZkzxUt-1J6uiDK5CyGYa0JJD9nk5LRMOA/edit?usp=sharing">Voila la liste des soumissions.</a> Et <a href="https://docs.google.com/spreadsheets/d/16T3-m4sDW2ZkzxUt-1J6uiDK5CyGYa0JJD9nk5LRMOA/edit?usp=sharing">ici</a> les jeux qu'on va ajouter.
+                        <u><a href="https://docs.google.com/spreadsheets/d/16T3-m4sDW2ZkzxUt-1J6uiDK5CyGYa0JJD9nk5LRMOA/edit?usp=sharing">Voila la liste des soumissions.</a></u> Et <u><a href="https://docs.google.com/spreadsheets/d/16T3-m4sDW2ZkzxUt-1J6uiDK5CyGYa0JJD9nk5LRMOA/edit?usp=sharing">ici</a></u> les jeux qu'on va ajouter.
                     </p>
                 </div>
             </div>
