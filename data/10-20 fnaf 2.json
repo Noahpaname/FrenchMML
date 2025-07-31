@@ -1,0 +1,58 @@
+{
+  "id": "https://store.steampowered.com/app/332800/Five_Nights_at_Freddys_2/",
+  "name": "Golden Freddy",
+  "author": "Five Nights at Freddy's 2",
+  "creators": ["Scott Cawthon (animdude)"],
+  "verifier": "Schokie",
+  "verification": "https://www.youtube.com/watch?v=06f9awdyzsU",
+  "percentToQualify": "100",
+  "password": "7 minutes",
+  "date": "11/03/2022",
+  "records": [
+    {
+      "user": "SpatioXhadow",
+      "link": "https://www.youtube.com/watch?v=ZdM3B11r2yU",
+      "mins": 0,
+      "secs": 0,
+      "milisecs": "000",
+      "date": "19/12/2022",
+      "percent": "100"
+    },
+    {
+      "user": "KD",
+      "link": "https://www.youtube.com/watch?v=fiWBBdlqREo&t=605",
+      "mins": 0,
+      "secs": 0,
+      "milisecs": "000",
+      "date": "28/12/2023",
+      "percent": "100"
+    },
+    {
+      "user": "Rosastars",
+      "link": "https://www.youtube.com/watch?v=UdoejWjCqTs",
+      "mins": 0,
+      "secs": 0,
+      "milisecs": "000",
+      "date": "16/10/2024",
+      "percent": "100"
+    },
+    {
+      "user": "Renoah",
+      "link": "https://www.youtube.com/watch?v=wFna_mdWbJc",
+      "mins": 0,
+      "secs": 0,
+      "milisecs": "000",
+      "date": "17/05/2025",
+      "percent": "100"
+    },
+    {
+      "user": "Admax78",
+      "link": "https://www.youtube.com/watch?v=PlcqhhTJTKA",
+      "mins": 0,
+      "secs": 0,
+      "milisecs": "000",
+      "date": "16/07/2025",
+      "percent": "100"
+    }
+  ]
+}
