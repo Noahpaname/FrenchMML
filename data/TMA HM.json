@@ -1,0 +1,31 @@
+{
+  "id": "https://gamejolt.com/games/fnaf3cn/782958",
+  "name": "The Main Attraction Hard Mode",
+  "author": "FNaF 3 CN",
+  "creators": ["Shooter25"],
+  "verifier": "Schokie",
+  "verification": "https://youtu.be/Sp6zBCxi7Uo?si=r07077OpCa3OnHMb",
+  "percentToQualify": "100",
+  "password": "6 minutes",
+  "date": "08/02/2023",
+  "records": [
+    {
+      "user": "SpatioXhadow",
+      "link": "https://youtu.be/DnNpVI6IHn4?si=wyvTU1PwGhRN-GZ9",
+      "mins": 0,
+      "secs": 0,
+      "milisecs": "000",
+      "date": "09/02/2023",
+      "percent": "100"
+    },
+    {
+      "user": "Le Roi Boo Lorrain",
+      "link": "https://youtu.be/m6tq4Gjnv9c?si=s5Ci535ZJ5jGx0P2",
+      "mins": 0,
+      "secs": 0,
+      "milisecs": "000",
+      "date": "15/07/2025",
+      "percent": "100"
+    }
+  ]
+}

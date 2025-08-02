@@ -1,0 +1,40 @@
+{
+  "id": "https://gamejolt.com/games/fnaf3cn/782958",
+  "name": "The Main Attraction",
+  "author": "FNaF 3 CN",
+  "creators": ["Shooter25"],
+  "verifier": "SpatioXhadow",
+  "verification": "https://youtu.be/y55GdBnQVHM?si=k8K-J1RvbcoBC51M",
+  "percentToQualify": "100",
+  "password": "6 minutes",
+  "date": "29/01/2023",
+  "records": [
+    {
+      "user": "Schokie",
+      "link": "https://youtu.be/SRkEQpjuW_k?si=jmKV6pQBGw6w4k9v",
+      "mins": 6,
+      "secs": 0,
+      "milisecs": "000",
+      "date": "04/02/2023",
+      "percent": "100"
+    },
+    {
+      "user": "[Alexion]",
+      "link": "https://youtu.be/vVVypXwqSw8?si=1Ru7rC8qccD1uLxg",
+      "mins": 6,
+      "secs": 0,
+      "milisecs": "000",
+      "date": "18/01/2025",
+      "percent": "100"
+    },
+    {
+      "user": "Le Roi Boo Lorrain",
+      "link": "https://youtu.be/WZw89C0s8Uw?si=iC3VVrU1sywXWhLO",
+      "mins": 6,
+      "secs": 0,
+      "milisecs": "000",
+      "date": "07/07/2025",
+      "percent": "100"
+    }
+  ]
+}

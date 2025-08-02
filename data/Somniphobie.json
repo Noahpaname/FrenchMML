@@ -1,0 +1,40 @@
+{
+  "id": "https://gamejolt.com/games/FNAF4CN/787191",
+  "name": "Somniphobia",
+  "author": "FNaF 4 CN",
+  "creators": ["Shooter25"],
+  "verifier": "SpatioXhadow",
+  "verification": "https://youtu.be/MGTvxtvB3ws?si=rhHkIvGFx0Yu9Q-m",
+  "percentToQualify": "100",
+  "password": "6 minutes",
+  "date": "15/02/2023",
+  "records": [
+    {
+      "user": "Schokie",
+      "link": "https://youtu.be/SXRRwbHuO9I?si=ftbRSrS7EMf3aIbR",
+      "mins": 6,
+      "secs": 0,
+      "milisecs": "000",
+      "date": "22/02/2023",
+      "percent": "100"
+    },
+    {
+      "user": "Le Roi Boo Lorrain",
+      "link": "https://www.youtube.com/live/5mkzw-ayOhY?si=NAnGLZjZitF8DkUw&t=34536",
+      "mins": 6,
+      "secs": 0,
+      "milisecs": "000",
+      "date": "18/08/2024",
+      "percent": "100"
+    },
+    {
+      "user": "[Alexion]",
+      "link": "https://youtu.be/1YC6HpOUf5w?si=k8ndy4suLgUo3m3n",
+      "mins": 6,
+      "secs": 0,
+      "milisecs": "000",
+      "date": "12/01/2025",
+      "percent": "100"
+    }
+  ]
+}
