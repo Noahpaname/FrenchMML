@@ -7,6 +7,7 @@
   "verification": "YTB LINK",
   "percentToQualify": "100",
   "password": "MAX MODE DURATION",
+  "date": "DD/MM/YY",
   "records": [
     {
       "user": "USER",
@@ -15,7 +16,7 @@
       "secs": 0,
       "milisecs": "000",
       "date": "DD/MM/YYYY",
-	    "percent": "100"
+	  "percent": "100"
     },
     {
       "user": "USER",
@@ -24,7 +25,7 @@
       "secs": 0,
       "milisecs": "000",
       "date": "DD/MM/YYYY",
-	    "percent": "100"
+	  "percent": "100"
     }
   ]
 }
