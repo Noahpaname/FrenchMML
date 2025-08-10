@@ -8,5 +8,15 @@
   "percentToQualify": "100",
   "password": "6 minutes",
   "date": "02/07/2025",
-  "records": []
+  "records": [
+      {
+       "user": "zThunder",
+       "link": "https://docs.google.com/spreadsheets/d/16T3-m4sDW2ZkzxUt-1J6uiDK5CyGYa0JJD9nk5LRMOA/edit?usp=sharing",
+       "mins": 6,
+       "secs": 0,
+       "milisecs": "000",
+       "date": "???",
+       "percent": "100"
+      }
+  ]
 }
