@@ -3,12 +3,21 @@
   "name": "Super Golden Freddy",
   "author": "Sister Location Super Custom Night",
   "creators": ["astaceres."],
-  "verifier": "Schokie",
-  "verification": "https://youtu.be/kc_8qvc0ZFA?si=BY4fpbnqK5atAdtP",
+  "verifier": "Skyrem Gaming",
+  "verification": "https://youtu.be/UiehEqoDOOg?si=yPmHdK83iKQrIrFE",
   "percentToQualify": "100",
   "password": "6 minutes",
-  "date": "14/09/2024",
+  "date": "07/03/2024",
   "records": [
+    {
+      "user": "Schokie",
+      "link": "https://youtu.be/kc_8qvc0ZFA?si=BY4fpbnqK5atAdtP",
+      "mins": 6,
+      "secs": 0,
+      "milisecs": "000",
+      "date": "14/09/2024",
+      "percent": "100"
+    },
     {
       "user": "[Alexion]",
       "link": "https://youtu.be/autIPtw6OI8?si=gPVCbhwSyy0wloGi",
