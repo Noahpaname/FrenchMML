@@ -10,6 +10,15 @@
     "date": "03/10/2024",
     "records": [
 	{
+		"user": "Skyrem Gaming",
+		"link": "https://youtu.be/zHjUxW23PWg?si=PhBJIaTlyb9Bdgzv",
+		"mins": 6,
+		"secs": 0,
+		"milisecs": "000",
+		"date": "17/10/2024",
+		"percent": "100"
+	},
+    {
 		"user": "[Alexion]",
 		"link": "https://www.youtube.com/watch?v=LChbgaAdOYA",
 		"mins": 6,
@@ -29,3 +38,4 @@
 	}
     ]
 }
+
