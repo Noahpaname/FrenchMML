@@ -10,21 +10,12 @@
   "date": "DATE",
   "records": [
     {
-      "user": "USER",
-      "link": "LINK",
+      "user": "[Alexion]",
+      "link": "https://youtu.be/myqe9gjqORg?si=CvUuOIxYGEuRUTI6",
       "mins": 0,
       "secs": 0,
       "milisecs": "000",
-      "date": "DATE",
-      "percent": "100"
-    },
-    {
-      "user": "USER",
-      "link": "LINK",
-      "mins": 0,
-      "secs": 0,
-      "milisecs": "000",
-      "date": "DATE",
+      "date": "27/01/2025",
       "percent": "100"
     }
   ]
