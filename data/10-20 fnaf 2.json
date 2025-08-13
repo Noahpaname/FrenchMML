@@ -10,9 +10,18 @@
   "date": "11/03/2022",
   "records": [
     {
+      "user": "Star Game World",
+      "link": "https://youtu.be/iuxQpkEojek?si=HPbzCqXP78bGCjNB",
+      "mins": 7,
+      "secs": 0,
+      "milisecs": "000",
+      "date": "21/06/2022",
+      "percent": "100"
+    },
+    {
       "user": "SpatioXhadow",
       "link": "https://www.youtube.com/watch?v=ZdM3B11r2yU",
-      "mins": 0,
+      "mins": 7,
       "secs": 0,
       "milisecs": "000",
       "date": "19/12/2022",
@@ -21,7 +30,7 @@
     {
       "user": "KD",
       "link": "https://www.youtube.com/watch?v=fiWBBdlqREo&t=605",
-      "mins": 0,
+      "mins": 7,
       "secs": 0,
       "milisecs": "000",
       "date": "28/12/2023",
@@ -30,7 +39,7 @@
     {
       "user": "Rosastars",
       "link": "https://www.youtube.com/watch?v=UdoejWjCqTs",
-      "mins": 0,
+      "mins": 7,
       "secs": 0,
       "milisecs": "000",
       "date": "16/10/2024",
@@ -39,7 +48,7 @@
     {
       "user": "Renoah",
       "link": "https://www.youtube.com/watch?v=wFna_mdWbJc",
-      "mins": 0,
+      "mins": 7,
       "secs": 0,
       "milisecs": "000",
       "date": "17/05/2025",
@@ -48,7 +57,7 @@
     {
       "user": "Admax78",
       "link": "https://www.youtube.com/watch?v=PlcqhhTJTKA",
-      "mins": 0,
+      "mins": 7,
       "secs": 0,
       "milisecs": "000",
       "date": "16/07/2025",
@@ -57,7 +66,7 @@
     {
       "user": "Le Roi Boo Lorrain",
       "link": "https://www.youtube.com/watch?v=Q-iToehKnQk",
-      "mins": 0,
+      "mins": 7,
       "secs": 0,
       "milisecs": "000",
       "date": "02/08/2025",
