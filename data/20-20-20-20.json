@@ -1,0 +1,58 @@
+{
+	"id": "https://store.steampowered.com/app/388090/Five_Nights_at_Freddys_4/",
+	"name": "20/20/20/20",
+	"author": "Five Nights at Freddy's 4",
+	"creators": ["Scott Cawthon (animdude)"],
+	"verifier": "Fonkyfouine",
+	"verification": "https://youtu.be/sSV1rckVaeg?si=po43Yc5AWIQr8CqG&t=5477",
+	"percentToQualify": "100",
+	"password": "6 minutes",
+	"date": "30/07/2015",
+	"records": [
+		{
+		"user": "Schokie",
+		"link": "https://youtu.be/4ohaI3wynEw?si=v_saPz9RQVLSY98C",
+		"mins": 6,
+		"secs": 0,
+		"milisecs": "000",
+		"date": "04/03/2022",
+		"percent": "100"
+		},
+		{
+		"user": "SpatioXhadow",
+		"link": "https://youtu.be/sbQtCOqKVs8?si=6AK7PuYRd-KX65GE",
+		"mins": 6,
+		"secs": 0,
+		"milisecs": "000",
+		"date": "05/12/2022",
+		"percent": "100"
+		},
+		{
+		"user": "KD",
+		"link": "https://youtu.be/A0qta2TKOVk?si=tLGVZwc8QWzq3syP&t=1067",
+		"mins": 6,
+		"secs": 0,
+		"milisecs": "000",
+		"date": "19/11/2023",
+		"percent": "100"
+		},
+		{
+		"user": "Le Roi Boo Lorrain",
+		"link": "https://youtu.be/UIuwfh7M7qE",
+		"mins": 6,
+		"secs": 0,
+		"milisecs": "000",
+		"date": "13/01/2024",
+		"percent": "100"
+		},
+		{
+		"user": "Renoah",
+		"link": "https://youtu.be/CS7NMJj2sII?si=iVDffFHCtRHfIqfL",
+		"mins": 6,
+		"secs": 0,
+		"milisecs": "000",
+		"date": "03/03/2025",
+		"percent": "100"
+		}
+	]
+}

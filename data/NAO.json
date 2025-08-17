@@ -1,0 +1,49 @@
+{
+	"id": "https://store.steampowered.com/app/354140/Five_Nights_at_Freddys_3/",
+	"name": "Nightmare Aggressive Only",
+	"author": "Five Nights at Freddy's 3",
+	"creators": ["Scott Cawthon (animdude)"],
+	"verifier": "Schokie",
+	"verification": "https://youtu.be/PZviW5weuKU?si=ab09D58xiKtTug07",
+	"percentToQualify": "100",
+	"password": "6 minutes",
+	"date": "04/12/2021",
+	"records": [
+		{
+		"user": "Star Game World",
+		"link": "https://youtu.be/GVWoiftU61g?si=MNnPWOCipwx3hULK",
+		"mins": 6,
+		"secs": 0,
+		"milisecs": "000",
+		"date": "11/08/2022",
+		"percent": "100"
+		},
+		{
+		"user": "KD",
+		"link": "https://youtu.be/DvpoyHqW0A8?si=zMYLPSr7b_CTzlzO&t=3320",
+		"mins": 6,
+		"secs": 0,
+		"milisecs": "000",
+		"date": "03/10/2023",
+		"percent": "100"
+		},
+		{
+		"user": "Le Roi Boo Lorrain",
+		"link": "https://youtu.be/zlHcWam3AFY?si=m4HkDApAYZ-P4crN",
+		"mins": 6,
+		"secs": 0,
+		"milisecs": "000",
+		"date": "12/01/2024",
+		"percent": "100"
+		},
+		{
+		"user": "Renoah",
+		"link": "https://youtu.be/bJmmfwm6X_4?si=dths1yLFEEIdSc9l",
+		"mins": 6,
+		"secs": 0,
+		"milisecs": "000",
+		"date": "24/02/2025",
+		"percent": "100"
+		}
+	]
+}

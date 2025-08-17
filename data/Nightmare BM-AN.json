@@ -1,0 +1,31 @@
+{
+	"id": "https://store.steampowered.com/app/388090/Five_Nights_at_Freddys_4/",
+	"name": "Nightmare BM/AN",
+	"author": "Five Nights at Freddy's 4",
+	"creators": ["Scott Cawthon (animdude)"],
+	"verifier": "Schokie",
+	"verification": "https://youtu.be/MVA5nOiRfGM?si=WpmwTewN0ZRb6TFb",
+	"percentToQualify": "100",
+	"password": "6 minutes",
+	"date": "20/03/2022",
+	"records": [
+		{
+		"user": "Le Roi Boo Lorrain",
+		"link": "https://youtu.be/nctAc_3v0nQ",
+		"mins": 6,
+		"secs": 0,
+		"milisecs": "000",
+		"date": "19/01/2024",
+		"percent": "100"
+		},
+		{
+		"user": "Renoah",
+		"link": "https://youtu.be/CS7NMJj2sII?si=gljNEcl0GlN7CxWL",
+		"mins": 6,
+		"secs": 0,
+		"milisecs": "000",
+		"date": "08/03/2025",
+		"percent": "100"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"id": "https://gamejolt.com/games/five-nights-at-candy-s-official/70253",
+	"name": "7/20",
+	"author": "Five Nights at Candy's",
+	"creators": ["Emil "Ace" Macko"],
+	"verifier": "Fonkyfouine",
+	"verification": "https://youtu.be/SN_A88qFy5g?si=JUDf4CAQJ-z5DHlB&t=1885",
+	"percentToQualify": "100",
+	"password": "7min 40sec",
+	"date": "19/11/2015",
+	"records": [
+		{
+		"user": "Schokie",
+		"link": "https://youtu.be/jN3_pfuwYGE?si=jvURryWQQpxoRsen",
+		"mins": 7,
+		"secs": 40,
+		"milisecs": "000",
+		"date": "12/08/2019",
+		"percent": "100"
+		},
+		{
+		"user": "Goh_Kidokoro",
+		"link": "https://youtu.be/ofzmXcLaxkA?si=f1zRVc0sLsC5YyLL",
+		"mins": 7,
+		"secs": 40,
+		"milisecs": "000",
+		"date": "26/11/2024",
+		"percent": "100"
+		}
+	]
+}
