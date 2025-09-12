@@ -3,5 +3,15 @@
         "role": "owner",
         "name": "Renoah",
         "link": "https://www.youtube.com/@Noahpaname_FR"
+    },
+    {
+        "role": "admin",
+        "name": "Admax78",
+        "link": "https://www.youtube.com/@Admax78"
+    },
+    {
+        "role": "helper",
+        "name": "Schokie",
+        "link": "https://www.youtube.com/@Schokie732"
     }
 ]
