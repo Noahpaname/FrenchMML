@@ -9,6 +9,15 @@
 	"password": "6 minutes",
 	"date": "15/08/2025",
 	"records": [
+        {
+		"user": "zapher25",
+		"link": "https://youtu.be/dFZR1GhXiJM?si=vLZ7CDGIhl4NVvSO",
+		"mins": 6,
+		"secs": 0,
+		"milisecs": "000",
+		"date": "15/09/2025",
+		"percent": "100"
+		}
+    ]
 
-	]
 }
