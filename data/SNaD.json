@@ -10,21 +10,21 @@
   "date": "02/08/2024",
   "records": [
     {
-      "user": "Schokie",
-      "link": "https://youtu.be/autIPtw6OI8?si=gPVCbhwSyy0wloGi",
-      "mins": 7,
-      "secs": 0,
-      "milisecs": "000",
-      "date": "06/08/2025",
-      "percent": "100"
-    },
-    {
       "user": "zThund3r",
       "link": "https://youtu.be/lqDWYLkn8cg?si=Yp9RrvfKBugRqBmz",
       "mins": 7,
       "secs": 0,
       "milisecs": "000",
       "date": "04/08/2025",
+      "percent": "100"
+    },
+    {
+      "user": "Schokie",
+      "link": "https://youtu.be/autIPtw6OI8?si=gPVCbhwSyy0wloGi",
+      "mins": 7,
+      "secs": 0,
+      "milisecs": "000",
+      "date": "06/08/2025",
       "percent": "100"
     },
     {
