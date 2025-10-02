@@ -88,7 +88,7 @@ export default {
                         <img src="https://media.tenor.com/SOW8irMXPZkAAAAi/catpls-meme.gif" width=128 height=128></img>
                     </div>
                     <template v-if="editors">
-                        <h3>Editeurs de liste</h3>
+                        <h3>Éditeurs de liste</h3>
                         <ol class="editors">
                             <li v-for="editor in editors">
                                 <img :src="\`/assets/\${roleIconMap[editor.role]}\${store.dark ? '-dark' : ''}.svg\`" :alt="editor.role">
@@ -102,20 +102,20 @@ export default {
                         Il faut que le jeu (ou le mod) soit téléchargable pour le rendre accessible à tout le monde.
                     </p>
                     <p>
-                        Même chose pour la vidéo. Faites qu'elle soit accessible à tous via un lien. (ducoup les vidéos non-repertoriées sont autorisés)
+                        Même chose pour la vidéo. Faites qu'elle soit accessible à tous via un lien. (du coup les vidéos non-repertoriées sont autorisées)
                     </p>
                     <h3>Exigences pour la complétion</h3>
                     <p>
-                        La run doit être complète, c'est-à-dire que la run doit commencer au début du challenge jusqu'à l'endscreen.
+                        La run doit être complète, c'est-à-dire que la run doit commencer au début du challenge jusqu'à l'écran de fin.
                     </p>
                     <p>
                         Il ne doit y avoir aucun montage pendant le gameplay.
                     </p>
                     <p>
-                        Il est conseillé de spécifier la date de la comlétion dans la description quand la date de publication n'est pas la même. Si ce n'est pas le cas, on prend la date de publication.
+                        Il est conseillé de spécifier la date de la complétion dans la description quand la date de publication n'est pas la même. Si ce n'est pas le cas, on prend la date de publication.
                     </p>
                     <p>
-                        <u><a href="https://docs.google.com/spreadsheets/d/16T3-m4sDW2ZkzxUt-1J6uiDK5CyGYa0JJD9nk5LRMOA/edit?usp=sharing">Voila la liste des soumissions.</a></u> Et <u><a href="https://docs.google.com/spreadsheets/d/14PLE5AACVWVqCbi2WQwz-_-ZpD4skO2DccxSx3vZRQA/edit?usp=sharing">ici</a></u> les jeux qu'on va ajouter.
+                        <u><a href="https://docs.google.com/spreadsheets/d/16T3-m4sDW2ZkzxUt-1J6uiDK5CyGYa0JJD9nk5LRMOA/edit?usp=sharing">Voilà la liste des soumissions.</a></u> Et <u><a href="https://docs.google.com/spreadsheets/d/14PLE5AACVWVqCbi2WQwz-_-ZpD4skO2DccxSx3vZRQA/edit?usp=sharing">ici</a></u> les jeux qu'on va ajouter.
                     </p>
                 </div>
             </div>
