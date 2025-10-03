@@ -16,7 +16,7 @@
             "secs": 0,
             "milisecs": "000",
             "date": "16/12/2024",
-			      "percent": "100"
+			"percent": "100"
         },
         {
             "user": "[Alexion]",
@@ -25,7 +25,7 @@
             "secs": 0,
             "milisecs": "000",
             "date": "11/05/2025",
-			      "percent": "100"
+			"percent": "100"
         },
         {
             "user": "Renoah",
@@ -34,8 +34,8 @@
             "secs": 0,
             "milisecs": "000",
             "date": "31/05/2025",
-			      "percent": "100"
-        }
+		    "percent": "100"
+        },
         {
             "user": "Admax78",
             "link": "https://youtu.be/sUB1BXG0maM?si=IHGgxppx_8_YZCys",
@@ -43,7 +43,7 @@
             "secs": 0,
             "milisecs": "000",
             "date": "13/09/2025",
-			      "percent": "100"
+			"percent": "100"
         }
     ]
 }
