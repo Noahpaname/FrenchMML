@@ -6,7 +6,17 @@
   "verifier": "Schokie",
   "verification": "https://youtu.be/pYScPK1DYmU?si=IPJ9I8CMyAWRLMvX",
   "percentToQualify": "100",
-  "password": "7min 48sec",
+  "password": "7min 46sec",
   "date": "08/06/2024",
-  "records": []
+  "records": [
+       {
+            "user": "Admax78",
+            "link": "https://youtu.be/f73atuKw6JY?si=w2NSSm6VrDhhlhvu",
+            "mins": 7,
+            "secs": 46,
+            "milisecs": "000",
+            "date": "27/07/2025",
+			"percent": "100"
+        }
+  ]
 }
