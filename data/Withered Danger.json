@@ -1,0 +1,21 @@
+{
+    "id": "https://store.steampowered.com/app/732690/FIVE_NIGHTS_AT_FREDDYS_HELP_WANTED/",
+    "name": "Withered Danger",
+    "author": "Five Nights at Freddy's: Help Wanted",
+    "creators": ["Scott Cawthon, Steel Wool Studios"],
+    "verifier": "Schokie",
+    "verification": "https://youtu.be/wKFsW0-D-NA",
+    "percentToQualify": "100",
+    "password": "5 minutes",
+    "date": "26/11/2022",
+    "records": [
+        {
+            "user": "Admax78",
+            "link": "https://youtu.be/oG9Wd9G9YjQ?si=fwlrC-drKaj-vgKK",
+            "mins": 5,
+            "secs": 0,
+            "milisecs": "000",
+            "date": "14/09/2025",
+			      "percent": "100"
+          ]
+        }
