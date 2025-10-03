@@ -1,0 +1,22 @@
+{
+  "id": "https://gamejolt.com/games/onaf/124881",
+  "name": "Hard Boiled Mode",
+  "author": "One Night at Flumpty's 2",
+  "creators": ["Jonochrome"],
+  "verifier": "Schokie",
+  "verification": "https://youtu.be/Q8Dt54mCIW8?si=x3rPetV6eH_imNkq",
+  "percentToQualify": "100",
+  "password": "9 minutes",
+  "date": "14/07/2022",
+  "records": [
+        {
+        "user": "Le Roi Boo Lorrain",
+        "link": "https://youtu.be/l8Xdu2aj_T0?si=hmuLzePOLQ1ALoq8",
+        "mins": 9,
+        "secs": 0,
+        "milisecs": "000",
+        "date": "18/09/2025",
+	    "percent": "100"
+        }
+  ]
+}
