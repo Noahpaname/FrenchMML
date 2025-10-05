@@ -8,5 +8,15 @@
     "percentToQualify": "100",
     "password": "6 minutes",
     "date": "02/08/2025",
-    "records": []
+    "records": [
+        {
+            "user": "Ytorad",
+            "link": "https://youtu.be/mzac2tepodA?si=42pL64riYVQediLq",
+            "mins": 6,
+            "secs": 0,
+            "milisecs": "000",
+            "date": "28/08/2025",
+		    "percent": "100"
+        }
+    ]
 }
