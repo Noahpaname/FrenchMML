@@ -9,6 +9,15 @@
 	"password": "6 minutes",
 	"date": "20/03/2022",
 	"records": [
+        {
+		"user": "KD",
+		"link": "https://youtu.be/DmRmM1LH-lc?si=k3Vy_mUF1uGd5ZOB&t=10865",
+		"mins": 6,
+		"secs": 0,
+		"milisecs": "000",
+		"date": "07/12/2023",
+		"percent": "100"
+		},
 		{
 		"user": "Le Roi Boo Lorrain",
 		"link": "https://youtu.be/nctAc_3v0nQ",
@@ -47,5 +56,6 @@
 		}
 	]
 }
+
 
 
