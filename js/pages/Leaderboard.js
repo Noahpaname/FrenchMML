@@ -21,7 +21,7 @@ export default {
             <div class="page-leaderboard">
                 <div class="error-container">
                     <p class="error" v-if="err.length > 0">
-                        Leaderboard may be incorrect, as the following levels could not be loaded: {{ err.join(', ') }}
+                        Le leaderboard peut être incorrect, car les maxmodes suivants n'ont pas réussi à être téléchargés: {{ err.join(', ') }}
                     </p>
                 </div>
                 <div class="board-container">
