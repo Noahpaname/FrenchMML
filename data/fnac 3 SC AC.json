@@ -8,6 +8,17 @@
 	"percentToQualify": "100",
 	"password": "13 minutes",
 	"date": "04/07/2025",
-	"records": []
+	"records": [
+        {
+            "user": "Le Roi Boo Lorrain",
+            "link": "https://youtu.be/uB2TiSoWqTI?si=3kTQaSr5sG6CDVED",
+            "mins": 13,
+            "secs": 0,
+            "milisecs": "000",
+            "date": "14/10/2025",
+		    "percent": "100"
+        }
+    ]
 
 }
+
