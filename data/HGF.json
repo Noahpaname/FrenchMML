@@ -6,7 +6,17 @@
   "verifier": "Ytorad",
   "verification": "https://youtu.be/iWtG0h1N1tc?si=AcPDoHoJZYTN0zQY",
   "percentToQualify": "100",
-  "password": "6 minutes",
+  "password": "9 minutes",
   "date": "19/09/2025",
-  "records": []
+  "records": [
+      {
+            "user": "DarkMen",
+            "link": "https://youtu.be/n-_6rsIN7XA",
+            "mins": 9,
+            "secs": 0,
+            "milisecs": "000",
+            "date": "11/10/2025",
+		    "percent": "100"
+      }
+  ]
 }
