@@ -3,10 +3,20 @@
   "name": "The Headspace Emissary",
   "author": "Headspace Night",
   "creators": ["Matt Warkoski"],
-  "verifier": "zapher25",
-  "verification": "https://youtu.be/UEFEo8gPOPk?si=FzbGKpZmxhVQW1EA",
+  "verifier": "IXo",
+  "verification": "https://youtu.be/Mq4CRvB0XMk?si=J9mw2CUjI_E31wlD",
   "percentToQualify": "100",
   "password": "4 minutes",
-  "date": "15/07/2025",
-  "records": []
+  "date": "14/07/2025",
+  "records": [
+      {
+      "user": "zapher25",
+      "link": "https://youtu.be/Mq4CRvB0XMk?si=J9mw2CUjI_E31wlD",
+      "mins": 4,
+      "secs": 0,
+      "milisecs": "000",
+      "date": "15/07/2025",
+      "percent": "100"
+    }
+  ]
 }
