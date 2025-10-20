@@ -8,5 +8,15 @@
     "percentToQualify": "100",
     "password": "8 minutes",
     "date": "02/10/2025",
-    "records": []
+    "records": [
+		{
+		"user": "Renoah",
+		"link": "https://www.youtube.com/watch?v=WcciFBUCokY",
+		"mins": 8,
+		"secs": 0,
+		"milisecs": "000",
+		"date": "20/10/2025",
+		"percent": "100"
+		}
+    ]
 }
