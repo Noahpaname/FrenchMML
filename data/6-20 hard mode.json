@@ -12,10 +12,19 @@
     {
       "user": "[Alexion]",
       "link": "https://youtu.be/dAATTbbYtEA?si=f1ZpQ2HERi1DKCIA",
-      "mins": 0,
+      "mins": 6,
       "secs": 0,
       "milisecs": "000",
       "date": "21/06/2025",
+      "percent": "100"
+    },
+    {
+      "user": "Le Roi Boo Lorrain",
+      "link": "https://youtu.be/Hcpu7iuFKac?si=Am1CHJBFbUuDJ1UJ",
+      "mins": 6,
+      "secs": 0,
+      "milisecs": "000",
+      "date": "26/10/2025",
       "percent": "100"
     }
   ]
