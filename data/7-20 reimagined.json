@@ -3,19 +3,19 @@
   "name": "7/20",
   "author": "FNaF 2: Reimagined",
   "creators": ["CANGO Development"],
-  "verifier": "Schokie",
-  "verification": "https://youtu.be/pYScPK1DYmU?si=IPJ9I8CMyAWRLMvX",
+  "verifier": "Admax78",
+  "verification": "https://youtu.be/f73atuKw6JY?si=w2NSSm6VrDhhlhvu",
   "percentToQualify": "100",
   "password": "7min 46sec",
-  "date": "08/06/2024",
+  "date": "27/07/2025",
   "records": [
        {
-            "user": "Admax78",
-            "link": "https://youtu.be/f73atuKw6JY?si=w2NSSm6VrDhhlhvu",
+            "user": "Schokie",
+            "link": "https://www.youtube.com/watch?v=UTo8TA5cbss",
             "mins": 7,
             "secs": 46,
             "milisecs": "000",
-            "date": "27/07/2025",
+            "date": "25/10/2025",
 			"percent": "100"
         }
   ]
