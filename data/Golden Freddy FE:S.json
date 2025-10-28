@@ -9,3 +9,22 @@
 	"password": "6 minutes",
 	"date": "29/08/2022",
 	"records": [
+        {
+            "user": "SpatioXhadow",
+            "link": "https://youtu.be/GU56ry9SadE?si=oPwl4xskwWtrNYl1",
+            "mins": 6,
+            "secs": 0,
+            "milisecs": "000",
+            "date": "14/11/2022",
+			"percent": "100"
+        },
+        {
+            "user": "Ytorad",
+            "link": "https://youtu.be/qLaglndf0Bs?si=YPQdsANpUQYQ74jO",
+            "mins": 6,
+            "secs": 0,
+            "milisecs": "000",
+            "date": "23/10/2025",
+			"percent": "100"
+        }
+    ]
