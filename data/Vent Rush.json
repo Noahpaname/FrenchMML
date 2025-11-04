@@ -3,28 +3,37 @@
   "name": "Vent Rush",
   "author": "FNaF 3 CN",
   "creators": ["Shooter25"],
-  "verifier": "Schokie",
-  "verification": "https://youtu.be/9frJZXZ1vKs?si=9vwgSuEL7rwX2-19",
+  "verifier": "SpatioXhadow",
+  "verification": "https://youtu.be/nPzLGgkCZY8?si=iEwzidSEgVLxWtco",
   "percentToQualify": "100",
   "password": "N/A",
-  "date": "08/02/2023",
+  "date": "30/01/2023",
   "records": [
+      {
+		"user": "Schokie",
+		"link": "https://youtu.be/9frJZXZ1vKs?si=9vwgSuEL7rwX2-19",
+		"mins": 13,
+		"secs": 59,
+		"milisecs": "000",
+		"date": "30/01/2023",
+		"percent": "100"
+		},
       {
 		"user": "Le Roi Boo Lorrain",
 		"link": "https://youtu.be/a2xI1EohyYc?si=OYPheS6SwQC5NsON",
-		"mins": 6,
-		"secs": 0,
+		"mins": 12,
+		"secs": 38,
 		"milisecs": "000",
-		"date": "13/01/2024",
+		"date": "07/07/2025",
 		"percent": "100"
 		},
       {
 		"user": "[Alexion]",
 		"link": "https://youtu.be/j-8CVy5OQeA?si=b-lQ5mfjai4D17hk",
-		"mins": 6,
-		"secs": 0,
+		"mins": 15,
+		"secs": 8,
 		"milisecs": "000",
-		"date": "13/01/2024",
+		"date": "31/10/2025",
 		"percent": "100"
 		}
   ]
