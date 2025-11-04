@@ -3,12 +3,21 @@
     "name": "Withered Danger",
     "author": "Five Nights at Freddy's: Help Wanted",
     "creators": ["Scott Cawthon, Steel Wool Studios"],
-    "verifier": "Schokie",
-    "verification": "https://youtu.be/wKFsW0-D-NA",
+    "verifier": "SpatioXhadow",
+    "verification": "https://youtu.be/OvyTYGuD4XQ?si=PEW4tXVUjeeOCABR",
     "percentToQualify": "100",
     "password": "5 minutes",
-    "date": "26/11/2022",
+    "date": "25/11/2022",
     "records": [
+        {
+            "user": "Schokie",
+            "link": "https://youtu.be/wKFsW0-D-NA",
+            "mins": 5,
+            "secs": 0,
+            "milisecs": "000",
+            "date": "26/11/2022",
+	        "percent": "100"
+        },
         {
             "user": "Admax78",
             "link": "https://youtu.be/oG9Wd9G9YjQ?si=fwlrC-drKaj-vgKK",
@@ -16,7 +25,7 @@
             "secs": 0,
             "milisecs": "000",
             "date": "14/09/2025",
-			      "percent": "100"
+	        "percent": "100"
         }
      ]
    }
