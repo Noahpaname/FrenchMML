@@ -8,5 +8,24 @@
   "percentToQualify": "100",
   "password": "N/A",
   "date": "08/02/2023",
-  "records": []
+  "records": [
+      {
+		"user": "Le Roi Boo Lorrain",
+		"link": "https://youtu.be/a2xI1EohyYc?si=OYPheS6SwQC5NsON",
+		"mins": 6,
+		"secs": 0,
+		"milisecs": "000",
+		"date": "13/01/2024",
+		"percent": "100"
+		},
+      {
+		"user": "[Alexion]",
+		"link": "https://youtu.be/j-8CVy5OQeA?si=b-lQ5mfjai4D17hk",
+		"mins": 6,
+		"secs": 0,
+		"milisecs": "000",
+		"date": "13/01/2024",
+		"percent": "100"
+		}
+  ]
 }
