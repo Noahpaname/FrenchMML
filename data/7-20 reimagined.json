@@ -26,6 +26,15 @@
             "milisecs": "000",
             "date": "27/10/2025",
 			"percent": "100"
+        },
+        {
+            "user": "Le Roi Boo Lorrain",
+            "link": "https://www.youtube.com/watch?v=r2p8P_LyM1U",
+            "mins": 7,
+            "secs": 46,
+            "milisecs": "000",
+            "date": "28/10/2025",
+			"percent": "100"
         }
   ]
 }
