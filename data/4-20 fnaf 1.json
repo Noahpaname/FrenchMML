@@ -2,7 +2,7 @@
 	"id": "https://store.steampowered.com/app/319510/Five_Nights_at_Freddys/",
 	"name": "4/20",
 	"author": "Five Nights at Freddy's",
-	"creators": ["Scott Cawthon (animdude)"],
+	"creators": ["Scott Cawthon"],
 	"verifier": "Schokie",
 	"verification": "https://youtu.be/mSSifzhSa1I?si=qb7-7Wod9JXAYO5a",
 	"percentToQualify": "100",
@@ -93,6 +93,7 @@
 	]
 
 }
+
 
 
 
