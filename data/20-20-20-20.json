@@ -2,7 +2,7 @@
 	"id": "https://store.steampowered.com/app/388090/Five_Nights_at_Freddys_4/",
 	"name": "20/20/20/20",
 	"author": "Five Nights at Freddy's 4",
-	"creators": ["Scott Cawthon (animdude)"],
+	"creators": ["Scott Cawthon"],
 	"verifier": "Fonkyfouine",
 	"verification": "https://youtu.be/sSV1rckVaeg?si=po43Yc5AWIQr8CqG&t=5477",
 	"percentToQualify": "100",
@@ -66,3 +66,4 @@
 	]
 
 }
+
