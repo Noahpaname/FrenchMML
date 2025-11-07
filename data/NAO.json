@@ -2,7 +2,7 @@
 	"id": "https://store.steampowered.com/app/354140/Five_Nights_at_Freddys_3/",
 	"name": "Nightmare Aggressive Mode",
 	"author": "Five Nights at Freddy's 3",
-	"creators": ["Scott Cawthon (animdude)"],
+	"creators": ["Scott Cawthon"],
 	"verifier": "Schokie",
 	"verification": "https://youtu.be/PZviW5weuKU?si=ab09D58xiKtTug07",
 	"percentToQualify": "100",
@@ -66,5 +66,6 @@
 	]
 
 }
+
 
 
