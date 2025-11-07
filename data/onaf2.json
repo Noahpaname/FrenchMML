@@ -9,6 +9,15 @@
   "password": "9 minutes",
   "date": "14/07/2022",
   "records": [
+      {
+        "user": "SpatioXhadow",
+        "link": "https://youtu.be/eoACXZtSNoQ?si=f3av0FyWdExTqGYr",
+        "mins": 9,
+        "secs": 0,
+        "milisecs": "000",
+        "date": "14/11/2022",
+	    "percent": "100"
+        },
         {
         "user": "Le Roi Boo Lorrain",
         "link": "https://youtu.be/l8Xdu2aj_T0?si=hmuLzePOLQ1ALoq8",
