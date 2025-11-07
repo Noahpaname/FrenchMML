@@ -2,7 +2,7 @@
 	"id": "https://store.steampowered.com/app/738060/Freddy_Fazbears_Pizzeria_Simulator/",
 	"name": "Hardest Saturday",
 	"author": "Freddy Fazbear's Pizzeria Simulator",
-	"creators": ["Scott Cawthon (animdude)"],
+	"creators": ["Scott Cawthon"],
 	"verifier": "Schokie",
 	"verification": "https://youtu.be/vhHTgOhMypo?si=a10nt_ySkTjgAbiw",
 	"percentToQualify": "100",
@@ -20,3 +20,4 @@
         }
     ]
 }
+
