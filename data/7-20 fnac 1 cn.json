@@ -37,6 +37,15 @@
 		    "percent": "100"
         },
         {
+            "user": "Darkmen",
+            "link": "https://youtu.be/OG1jOftUlL4?si=3NJz0Gr9VNhdm-lt",
+            "mins": 6,
+            "secs": 0,
+            "milisecs": "000",
+            "date": "02/11/2025",
+		    "percent": "100"
+        },
+        {
             "user": "Admax78",
             "link": "https://youtu.be/sUB1BXG0maM?si=IHGgxppx_8_YZCys",
             "mins": 6,
@@ -52,6 +61,15 @@
             "secs": 0,
             "milisecs": "000",
             "date": "27/09/2025",
+			"percent": "100"
+        },
+        {
+            "user": "Ixo",
+            "link": "https://youtu.be/jW8TTQqPFN8?si=76NXwePic3VpiaD8",
+            "mins": 6,
+            "secs": 0,
+            "milisecs": "000",
+            "date": "05/11/2025",
 			"percent": "100"
         }
     ]
