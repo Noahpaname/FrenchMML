@@ -8,5 +8,15 @@
   "percentToQualify": "100",
   "password": "6 minutes",
   "date": "26/04/2024",
-  "records": []
+  "records": [
+      {
+		"user": "Ixo",
+		"link": "https://youtu.be/Qvq5mK6mw6o?si=AocuhRVqFlPVUNZj",
+		"mins": 6,
+		"secs": 0,
+		"milisecs": "000",
+		"date": "04/11/2022",
+		"percent": "100"
+		}
+  ]
 }
