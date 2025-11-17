@@ -9,6 +9,15 @@
 	"password": "6 minutes",
 	"date": "22/08/2025",
 	"records": [
-
+{
+		"user": "Admax78",
+		"link": "https://www.youtube.com/watch?v=YvC8rPSrgUM",
+		"mins": 6,
+		"secs": 0,
+		"milisecs": "000",
+		"date": "16/11/2025",
+		"percent": "100"
+	}
 	]
+
 }
