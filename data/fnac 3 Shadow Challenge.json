@@ -1,0 +1,33 @@
+{
+	"id": "https://gamejolt.com/games/five-nights-at-candy-s-3-official/130420",
+	"name": "Shadow Challenge",
+	"author": "Five Nights at Candy's 3",
+	"creators": ["Emil 'Ace' Macko"],
+	"verifier": "Admax78",
+	"verification": "https://youtu.be/9cJpOcoJSp8?si=VVDEoUy0UQUtn8Qv",
+	"percentToQualify": "100",
+	"password": "N/A",
+	"date": "16/04/2025",
+	"records": [
+        {
+            "user": "Le Roi Boo Lorrain",
+            "link": "https://youtu.be/uB2TiSoWqTI?si=3kTQaSr5sG6CDVED",
+            "mins": 13,
+            "secs": 0,
+            "milisecs": "000",
+            "date": "14/10/2025",
+		    "percent": "100"
+        },
+        {
+            "user": "Schokie",
+            "link": "https://youtu.be/ai1M1l0E5iI?si=tgW9R6eH5p-cA6eT",
+            "mins": 13,
+            "secs": 0,
+            "milisecs": "000",
+            "date": "18/10/2025",
+		    "percent": "100"
+        }
+    ]
+
+}
+
