@@ -8,5 +8,15 @@
     "percentToQualify": "100",
     "password": "7min02sec",
     "date": "21/06/2022",
-    "records": []
+    "records": [
+        {
+      "user": "SpatioXhadow",
+      "link": "https://youtu.be/VEV523-jvm0?si=B-cLsIQgC5zJ-a0e",
+      "mins": 7,
+      "secs": 2,
+      "milisecs": "000",
+      "date": "22/01/2023",
+      "percent": "100"
+    }
+    ]
 }
