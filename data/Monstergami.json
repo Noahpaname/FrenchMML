@@ -8,5 +8,33 @@
     "percentToQualify": "100",
     "password": "N/A",
     "date": "20/11/2024",
-    "records": []
+    "records": [
+        {
+      "user": "[Alexion]",
+      "link": "https://youtu.be/veuXx4pZiNU?si=G7k9D6KIjV6c7mMm",
+      "mins": 5,
+      "secs": 54,
+      "milisecs": "899",
+      "date": "17/03/2025",
+      "percent": "100"
+    },
+    {
+      "user": "Admax78",
+      "link": "https://youtu.be/Xiz00y8PmLY?si=5Kt696blFXrY0tTx",
+      "mins": 6,
+      "secs": 24,
+      "milisecs": "533",
+      "date": "18/04/2025",
+      "percent": "100"
+    },
+    {
+      "user": "Renoah",
+      "link": "https://youtu.be/vWwZKG78NIY?si=YStxrjqYSRHEolL3",
+      "mins": 4,
+      "secs": 13,
+      "milisecs": "698",
+      "date": "23/04/2025",
+      "percent": "100"
+    }
+    ]
 }
