@@ -1,0 +1,30 @@
+ {
+    "id": "https://gamejolt.com/games/fnacbetter/729972",
+    "name": "Monstergami Night Laser Pointer",
+    "author": "FNaC 3 Custom Night",
+    "creators": ["Mr. Manatee"],
+    "verifier": "Admax78",
+    "verification": "https://youtu.be/smdFYpL0SPg?si=QWX6k-EU27zpRlbn",
+    "percentToQualify": "100",
+    "password": "N/A",
+    "date": "03/07/2025",
+    "records": [
+        {
+      "user": "Renoah",
+      "link": "https://youtu.be/ytC44EWG2Do?si=GU6W-DfsuOV_KXlY",
+      "mins": 5,
+      "secs": 29,
+      "milisecs": "984",
+      "date": "05/09/2025",
+      "percent": "100"
+    },
+    {
+      "user": "Schokie",
+      "link": "https://youtu.be/i4nOkduuErk?si=RzfGAMxgxFt3D2r6",
+      "mins": 4,
+      "secs": 53,
+      "milisecs": "000",
+      "date": "08/10/2025",
+      "percent": "100"
+    ]
+}
