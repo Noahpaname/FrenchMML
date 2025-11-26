@@ -8,5 +8,24 @@
     "percentToQualify": "100",
     "password": "3 minutes",
     "date": "22/08/2025",
-    "records": []
+    "records": [
+        {
+		"user": "[Alexion]",
+		"link": "https://youtu.be/DCrobEiCGdA?si=1gpCZLnrVJzDIqBF",
+		"mins": 3,
+		"secs": 0,
+		"milisecs": "000",
+		"date": "12/04/2025",
+		"percent": "100"
+		},
+        {
+		"user": "Renoah",
+		"link": "https://youtu.be/vWuJ-hSBW5o?si=-NvTv6qKPFx4_LUq",
+		"mins": 3,
+		"secs": 0,
+		"milisecs": "000",
+		"date": "14/07/2025",
+		"percent": "100"
+		}
+    ]
 }
