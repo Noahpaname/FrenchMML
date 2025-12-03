@@ -8,5 +8,15 @@
     "percentToQualify": "100",
     "password": "N/A",
     "date": "25/10/2023",
-    "records": []
+    "records": [
+        {
+		"user": "Sfan",
+		"link": "https://medal.tv/games/five-nights-at-freddys/clips/llf9dnK33hQXKR8Wn?invite=cr-MSw2MlAsNDIxMjA4Mjgx&v=360",
+		"mins": 5,
+		"secs": 15,
+		"milisecs": "510",
+		"date": "20/10/2025",
+		"percent": "100"
+		}
+    ]
 }
