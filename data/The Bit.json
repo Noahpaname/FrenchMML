@@ -3,19 +3,19 @@
   "name": "The Bit",
   "author": "Lost Location Custom Night",
   "creators": ["KeplerFNAF"],
-  "verifier": "Ytorad",
-  "verification": "https://youtu.be/cLKz7x2VMWY?si=PKETdo7qJVgYPT5G",
+  "verifier": "Sfan",
+  "verification": "https://www.youtube.com/watch?v=ziJDBEXO8-0",
   "percentToQualify": "100",
   "password": "N/A",
-  "date": "13/09/2025",
+  "date": "07/08/2025",
   "records": [
       {
-      "user": "Sfan",
-      "link": "https://www.youtube.com/watch?v=ziJDBEXO8-0",
+      "user": "Ytorad",
+      "link": "https://youtu.be/cLKz7x2VMWY?si=PKETdo7qJVgYPT5G",
       "mins": 8,
-      "secs": 41,
+      "secs": 12,
       "milisecs": "000",
-      "date": "07/08/2025",
+      "date": "13/09/2025",
       "percent": "100"
     }
   ]
