@@ -3,12 +3,21 @@
   "name": "Catfight Crashout",
   "author": "Girl's Night",
   "creators": ["ITDEER"],
-  "verifier": "zThund3r",
-  "verification": "https://youtu.be/4k0InGXTiVo?si=ougzd3fNLPtVB8yj",
+  "verifier": "Sfan",
+  "verification": "https://www.youtube.com/watch?v=HeCablIVmVk",
   "percentToQualify": "100",
   "password": "3m 41sec 186ms",
-  "date": "28/08/2025",
+  "date": "23/08/2025",
   "records": [
+      {
+      "user": "zThund3r",
+      "link": "https://youtu.be/4k0InGXTiVo?si=ougzd3fNLPtVB8yj",
+      "mins": 3,
+      "secs": 41,
+      "milisecs": "186",
+      "date": "28/08/2025",
+      "percent": "100"
+     },
       {
       "user": "Ixo",
       "link": "https://youtu.be/QQTcxVYul3k?si=q7fgyyHRogXmLNpf",
