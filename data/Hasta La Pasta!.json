@@ -3,10 +3,20 @@
     "name": "Hasta La Pasta!",
     "author": "Chuck E. Cheese's: Rebooted, Charmified!",
     "creators": ["Nephryte"],
-    "verifier": "[Alexion]",
-    "verification": "https://youtu.be/apx_yqd9bWo?si=XnQHrMMFpVKYeyHv",
+    "verifier": "Aresse",
+    "verification": "https://www.youtube.com/watch?v=aoPvCLcygDk",
     "percentToQualify": "100",
     "password": "N/A",
-    "date": "22/11/2025",
-    "records": []
+    "date": "10/07/2025",
+    "records": [
+        {
+       "user": "[Alexion]",
+       "link": "https://youtu.be/apx_yqd9bWo?si=XnQHrMMFpVKYeyHv",
+       "mins": 7,
+       "secs": 51,
+       "milisecs": "000",
+       "date": "22/11/2025",
+       "percent": "100"
+      }
+    ]
 }
