@@ -3,12 +3,21 @@
   "name": "Puppet Master",
   "author": "FNaC 3 Custom Night",
   "creators": ["Mr. Manatee"],
-  "verifier": "Schokie",
-  "verification": "https://youtu.be/hGitksw4AGA?si=nNAegmShkXudi2G-",
+  "verifier": "Aresse",
+  "verification": "https://www.youtube.com/watch?v=WEpfi63KaUE",
   "percentToQualify": "100",
   "password": "N/A",
-  "date": "20/11/2024",
+  "date": "27/09/2023",
   "records": [
+      {
+      "user": "Schokie",
+      "link": "https://youtu.be/hGitksw4AGA?si=nNAegmShkXudi2G-",
+      "mins": 5,
+      "secs": 28,
+      "milisecs": "000",
+      "date": "20/11/2024",
+      "percent": "100"
+    },
     {
       "user": "Renoah",
       "link": "https://youtu.be/Jov37QxutBU?si=_o9WXaUpn4a4bvNv",
