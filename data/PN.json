@@ -3,12 +3,21 @@
     "name": "Puppet Night",
     "author": "FNaF 2 CN",
     "creators": ["Shooter25"],
-    "verifier": "Schokie",
-    "verification": "https://youtu.be/d2W2lfp-eRo?si=-I6GKQbQTEd--Xh8",
+    "verifier": "Aresse",
+    "verification": "https://www.youtube.com/watch?v=lohada2rQ10",
     "percentToQualify": "100",
     "password": "3 minutes",
-    "date": "22/08/2025",
+    "date": "06/04/2024",
     "records": [
+        {
+		"user": "Schokie",
+		"link": "https://www.youtube.com/watch?v=r4Tjt0zkj7Y",
+		"mins": 3,
+		"secs": 0,
+		"milisecs": "000",
+		"date": "22/08/2025",
+		"percent": "100"
+		},
         {
 		"user": "[Alexion]",
 		"link": "https://youtu.be/DCrobEiCGdA?si=1gpCZLnrVJzDIqBF",
