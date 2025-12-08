@@ -10,6 +10,15 @@
     "date": "25/10/2023",
     "records": [
         {
+		"user": "Aresse",
+		"link": "https://www.youtube.com/watch?v=cGozQwsNX_0",
+		"mins": 3,
+		"secs": 21,
+		"milisecs": "220",
+		"date": "28/06/2024",
+		"percent": "100"
+		},
+        {
 		"user": "Sfan",
 		"link": "https://medal.tv/games/five-nights-at-freddys/clips/llf9dnK33hQXKR8Wn?invite=cr-MSw2MlAsNDIxMjA4Mjgx&v=360",
 		"mins": 5,
