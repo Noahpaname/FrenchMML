@@ -3,19 +3,28 @@
   "name": "Rat & Cat Theatre",
   "author": "FNaC 2 Custom Night",
   "creators": ["Nephryte"],
-  "verifier": "Schokie",
-  "verification": "https://youtu.be/Hc_Vb_F7LmA?si=-PjQkEoEZVXIUpvn",
+  "verifier": "Aresse",
+  "verification": "https://www.youtube.com/watch?v=08w9VbUZ5jY",
   "percentToQualify": "100",
   "password": "6 minutes",
-  "date": "19/09/2023",
+  "date": "15/09/2023",
   "records": [
+      {
+		"user": "Schokie",
+		"link": "https://youtu.be/Hc_Vb_F7LmA?si=-PjQkEoEZVXIUpvn",
+		"mins": 6,
+		"secs": 0,
+		"milisecs": "000",
+		"date": "19/09/2023",
+		"percent": "100"
+		},
       {
 		"user": "Ixo",
 		"link": "https://youtu.be/CLdYGV_JXRE?si=5xFyp5lnvNmVschJ",
 		"mins": 6,
 		"secs": 0,
 		"milisecs": "000",
-		"date": "04/11/2022",
+		"date": "04/11/2025",
 		"percent": "100"
 		}
   ]
