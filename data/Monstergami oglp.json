@@ -8,5 +8,24 @@
 	"percentToQualify": "100",
 	"password": "N/A",
 	"date": "05/09/2025",
-	"records": []
+	"records": [
+        {
+      "user": "Schokie",
+      "link": "https://youtu.be/i4nOkduuErk?si=RzfGAMxgxFt3D2r6",
+      "mins": 4,
+      "secs": 53,
+      "milisecs": "000",
+      "date": "08/10/2025",
+      "percent": "100"
+    },
+    {
+      "user": "Admax78",
+      "link": "https://youtu.be/aL5O8l4Qmek?si=vJjtOvretvMHefzw",
+      "mins": 6,
+      "secs": 27,
+      "milisecs": "169",
+      "date": "07/12/2025",
+      "percent": "100"
+    }
+    ]
 }
