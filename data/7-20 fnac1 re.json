@@ -9,6 +9,15 @@
 	"password": "7 minutes",
 	"date": "21/08/2019",
 	"records": [
+        {
+		"user": "Aresse",
+		"link": "https://www.youtube.com/watch?v=iadBQaUStww",
+		"mins": 7,
+		"secs": 0,
+		"milisecs": "000",
+		"date": "13/04/2025",
+		"percent": "100"
+		},
 		{
 		"user": "Renoah",
 		"link": "https://www.youtube.com/watch?v=RgdTbKmZ3O0",
@@ -48,6 +57,7 @@
 	]
 
 }
+
 
 
 
