@@ -36,6 +36,15 @@
 		"date": "23/10/2023",
 		"percent": "100"
 		},
+        {
+		"user": "Aresse",
+		"link": "https://www.youtube.com/watch?v=bqygxqgIgb0",
+		"mins": 8,
+		"secs": 55,
+		"milisecs": "000",
+		"date": "28/10/2023",
+		"percent": "100"
+		},
 		{
 		"user": "Le Roi Boo Lorrain",
 		"link": "https://youtu.be/Sc4Ad198U04?si=ejAbG4t1T5BJVbTf",
@@ -93,6 +102,7 @@
 	]
 
 }
+
 
 
 
