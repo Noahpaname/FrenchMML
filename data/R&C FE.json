@@ -3,19 +3,28 @@
   "name": "Rat & Cat Theatre Faulty Equipment",
   "author": "FNaC 2 Custom Night",
   "creators": ["Nephryte"],
-  "verifier": "Schokie",
-  "verification": "https://youtu.be/Wye6jsMDZsg?si=8DHPIO5-wpZg7YDM",
+  "verifier": "Aresse",
+  "verification": "https://www.youtube.com/watch?v=lwou6Vy7dxo",
   "percentToQualify": "100",
   "password": "6 minutes",
-  "date": "24/04/2024",
+  "date": "15/09/2023",
   "records": [
+      {
+		"user": "Schokie",
+		"link": "https://youtu.be/Wye6jsMDZsg?si=8DHPIO5-wpZg7YDM",
+		"mins": 6,
+		"secs": 0,
+		"milisecs": "000",
+		"date": "24/04/2024",
+		"percent": "100"
+		}
       {
 		"user": "Ixo",
 		"link": "https://youtu.be/Qvq5mK6mw6o?si=kr7KOC5QVQOr_W0j&t=377",
 		"mins": 6,
 		"secs": 0,
 		"milisecs": "000",
-		"date": "04/11/2022",
+		"date": "04/11/2025",
 		"percent": "100"
 		}
   ]
