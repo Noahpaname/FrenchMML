@@ -3,12 +3,21 @@
     "name": "7/20",
     "author": "FNaY: Ultra Deluxe!",
     "creators": ["noodleprime"],
-    "verifier": "[Alexion]",
-    "verification": "https://youtu.be/9lymxd9ZR54?si=J0SO5Zc3fDbmLkJi",
+    "verifier": "Aresse",
+    "verification": "https://youtu.be/0UsCQbposgw?si=Wu3a8ZJxS32b9vpX&t=60",
     "percentToQualify": "100",
     "password": "2m 27sec",
-    "date": "16/03/2025",
+    "date": "14/01/2024",
     "records": [
+        {
+            "user": "[Alexion]",
+            "link": "https://www.youtube.com/watch?v=9lymxd9ZR54",
+            "mins": 2,
+            "secs": 27,
+            "milisecs": "000",
+            "date": "16/03/2025",
+		    "percent": "100"
+        },
         {
             "user": "Lili",
             "link": "https://youtu.be/XF5Ncb3_AWA?si=-JtU8xmmf_MygoEJ",
