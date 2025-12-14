@@ -3,12 +3,21 @@
   "name": "Rat & Cat",
   "author": "FNaC 3 Custom Night",
   "creators": ["Mr. Manatee"],
-  "verifier": "Schokie",
-  "verification": "https://youtu.be/OTtaifcXRv0?si=Yk2EbE6zL6DYXmZK",
+  "verifier": "DarkMen",
+  "verification": "https://youtu.be/RoLfwJqyzXA?si=6cRd8APZNBMCcFz6",
   "percentToQualify": "100",
   "password": "N/A",
-  "date": "23/11/2024",
+  "date": "17/11/2024",
   "records": [
+      {
+	  	  "user": "Schokie",
+		  "link": "https://youtu.be/OTtaifcXRv0?si=Yk2EbE6zL6DYXmZK",
+		  "mins": 4,
+		  "secs": 59,
+		  "milisecs": "000",
+		  "date": "23/11/2024",
+		  "percent": "100"
+		},
 		{
 	  	  "user": "[Alexion]",
 		  "link": "https://www.youtube.com/watch?v=oLnvICCaGxo",
