@@ -9,6 +9,15 @@
 	"password": "6 minutes",
 	"date": "12/08/2025",
 	"records": [
+        {
+		"user": "Le Roi Boo Lorrain",
+		"link": "https://youtu.be/lbyqRXiIdL8?si=hZa11r2sQFWJ3VEo&t=290",
+		"mins": 6,
+		"secs": 0,
+		"milisecs": "000",
+		"date": "11/12/2025",
+		"percent": "100"
+	  }
+    ]
 
-	]
 }
