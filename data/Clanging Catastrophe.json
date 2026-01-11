@@ -8,5 +8,15 @@
   "percentToQualify": "100",
   "password": "5 minutes",
   "date": "30/08/2025",
-  "records": []
+  "records": [
+      {
+		"user": "Fazzilla",
+		"link": "https://youtu.be/JF7wP8RPcss?si=rsEJEy01XK66XDHc",
+		"mins": 5,
+		"secs": 0,
+		"milisecs": "000",
+		"date": "07/12/2025",
+		"percent": "100"
+		}
+  ]
 }
