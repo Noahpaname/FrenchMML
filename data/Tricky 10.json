@@ -17,6 +17,15 @@
             "milisecs": "000",
             "date": "19/10/2025",
 		    "percent": "100"
+        },
+        {
+            "user": "Aresse",
+            "link": "https://www.youtube.com/watch?v=SxVVv7g7Cp0",
+            "mins": 6,
+            "secs": 0,
+            "milisecs": "000",
+            "date": "6/01/2026",
+		    "percent": "100"
         }
     ]
 }
