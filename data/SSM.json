@@ -9,5 +9,15 @@
 	"password": "7 minutes",
 	"date": "10/08/2025",
 	"records": [
+        {
+		"user": "Daléo",
+		"link": "https://youtu.be/2ACOZIlSaCw?si=VHVRQFPImHa1ukH3",
+		"mins": 7,
+		"secs": 0,
+		"milisecs": "000",
+		"date": "17/01/2026",
+		"percent": "100"
+		}
 	]
+
 }
