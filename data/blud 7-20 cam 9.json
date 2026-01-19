@@ -3,10 +3,20 @@
   "name": "Blood 7/20 Chester Cam 9",
   "author": "FNaC 1 Custom Night",
   "creators": ["Mr. Manatee"],
-  "verifier": "Le Roi Boo Lorrain",
-  "verification": "https://youtu.be/8JEymTl45Cs?si=C2ROj4c_xImwDVFz",
+  "verifier": "Jord'X",
+  "verification": "https://www.youtube.com/watch?v=G_oKkbFX0vU",
   "percentToQualify": "100",
   "password": "6 minutes",
-  "date": "23/11/2025",
-  "records": []
+  "date": "12/11/2025",
+  "records": [
+      {
+      "user": "Le Roi Boo Lorrain",
+      "link": "https://youtu.be/8JEymTl45Cs?si=C2ROj4c_xImwDVFz",
+      "mins": 6,
+      "secs": 0,
+      "milisecs": "000",
+      "date": "23/11/2025",
+      "percent": "100"
+    }
+  ]
 }
