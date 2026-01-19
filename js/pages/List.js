@@ -1,7 +1,7 @@
 import { store } from "../main.js";
 import { embed } from "../util.js";
 import { score } from "../score.js";
-import { fetchEditors, fetchUL } from "../content.js";
+import { fetchEditors, fetchList } from "../content.js";
 
 import Spinner from "../components/Spinner.js";
 import LevelAuthors from "../components/List/LevelAuthors.js";
@@ -26,7 +26,8 @@ export default {
                     <tr v-for="([level, err], i) in list">
                         <td class="rank">
                             <p v-if="i + 1 <= 150" class="type-label-lg">#{{ i + 1 }}</p>
-                            <p v-else class="type-label-lg">#{{ i + 1 }} (Legacy)</p>
+                            <p v-else class="type-label-lg">Legacy</p>
+                            <p v-else class="type-label-lg">#{{ i + 1 }}</p>
                         </td>
                         <td class="level" :class="{ 'active': selected == i, 'error': !level }">
                             <button @click="selected = i">
@@ -115,7 +116,7 @@ export default {
                         Il est conseillé de spécifier la date de la complétion dans la description quand la date de publication n'est pas la même. Si ce n'est pas le cas, on prend la date de publication.
                     </p>
                     <p>
-                        <u><a href="https://docs.google.com/spreadsheets/d/16T3-m4sDW2ZkzxUt-1J6uiDK5CyGYa0JJD9nk5LRMOA/edit?usp=sharing">Voilà la liste des soumissions.</a></u> Et <u><a href="https://docs.google.com/spreadsheets/d/14PLE5AACVWVqCbi2WQwz-_-ZpD4skO2DccxSx3vZRQA/edit?usp=sharing">ici</a></u> les jeux qu'on va ajouter.
+                        <u><a href="https://docs.google.com/spreadsheets/d/16T3-m4sDW2ZkzxUt-1J6uiDK5CyGYa0JJD9nk5LRMOA/edit?usp=sharing">Voilà la liste des soumissions.</a></u> Et <u><a href="https://docs.google.com/spreadsheets/d/14PLE5AACVWVqCbi2WQwz-_-ZpD4skO2DccxSx3vZRQA/edit?usp=sharing">ici</a></u> les modes qu'on va ajouter.
                     </p>
                 </div>
             </div>
@@ -147,7 +148,7 @@ export default {
     },
     async mounted() {
         // Hide loading spinner
-        this.list = await fetchUL();
+        this.list = await fetchList();
         this.editors = await fetchEditors();
 
         // Error handling
