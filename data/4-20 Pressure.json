@@ -8,5 +8,24 @@
     "percentToQualify": "100",
     "password": "6 minutes",
     "date": "01/08/2025",
-    "records": []
+    "records": [
+        {
+            "user": "Sfan",
+            "link": "https://youtu.be/kcTVkvjNvb0",
+            "mins": 6,
+            "secs": 0,
+            "milisecs": "000",
+            "date": "03/01/2026",
+		    "percent": "100"
+        },
+          {
+            "user": "Admax78",
+            "link": "https://youtu.be/Oa_c335wi9k?si=xAZbXxZGbU0mfdKZ",
+            "mins": 6,
+            "secs": 0,
+            "milisecs": "000",
+            "date": "05/01/2026",
+		    "percent": "100"
+        }
+    ]
 }
