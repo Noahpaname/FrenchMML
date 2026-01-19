@@ -27,6 +27,15 @@
 		"date": "11/09/2025",
 		"percent": "100"
 	},
+      {
+		"user": "Jord'X",
+		"link": "https://www.youtube.com/watch?v=muDVgRja4YE",
+		"mins": 12,
+		"secs": 27,
+		"milisecs": "000",
+		"date": "10/10/2025",
+		"percent": "100"
+	},
     {
 		"user": "SKYZ",
 		"link": "https://youtu.be/GXHhRyj92Vc?si=qa3iFf2uccws-9GY",
@@ -56,6 +65,7 @@
 	}
     ]
 }
+
 
 
 
