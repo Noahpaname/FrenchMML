@@ -10,6 +10,15 @@
 	"date": "12/08/2025",
 	"records": [
         {
+		"user": "Jord'X",
+		"link": "https://www.youtube.com/watch?v=wwwshYDoFN4",
+		"mins": 6,
+		"secs": 0,
+		"milisecs": "000",
+		"date": "11/11/2025",
+		"percent": "100"
+	  },
+        {
 		"user": "Le Roi Boo Lorrain",
 		"link": "https://youtu.be/lbyqRXiIdL8?si=hZa11r2sQFWJ3VEo&t=290",
 		"mins": 6,
@@ -17,7 +26,17 @@
 		"milisecs": "000",
 		"date": "11/12/2025",
 		"percent": "100"
+	  },
+        {
+		"user": "Renoah",
+		"link": "https://www.youtube.com/watch?v=LdgT3L_FItk",
+		"mins": 6,
+		"secs": 0,
+		"milisecs": "000",
+		"date": "10/01/2026",
+		"percent": "100"
 	  }
     ]
 
 }
+
