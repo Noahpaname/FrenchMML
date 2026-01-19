@@ -64,6 +64,15 @@
 		"percent": "100"
 	},
     {
+		"user": "Jord'X",
+		"link": "https://www.youtube.com/watch?v=LkOtSx9W_WA",
+		"mins": 7,
+		"secs": 0,
+		"milisecs": "000",
+		"date": "11/10/2025",
+		"percent": "100"
+	},
+    {
 		"user": "Daléo",
 		"link": "https://youtu.be/FBW6LkvyDv4?si=CWe9DmKlt3RdHbcO",
 		"mins": 7,
@@ -92,6 +101,7 @@
 	}
     ]
 }
+
 
 
 
