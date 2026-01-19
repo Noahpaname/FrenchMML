@@ -3,10 +3,20 @@
   "name": "Blood 7/20 No Power Out",
   "author": "FNaC 1 Custom Night",
   "creators": ["Mr. Manatee"],
-  "verifier": "Le Roi Boo Lorrain",
-  "verification": "https://youtu.be/ugLHHy1qlsY?si=XRVGzcJQ_VQc4PCY",
+  "verifier": "Jord'X",
+  "verification": "https://www.youtube.com/watch?v=tkU_3JnlLQc",
   "percentToQualify": "100",
   "password": "6 minutes",
-  "date": "16/11/2025",
-  "records": []
+  "date": "10/11/2025",
+  "records": [
+      {
+      "user": "Le Roi Boo Lorrain",
+      "link": "https://youtu.be/ugLHHy1qlsY?si=XRVGzcJQ_VQc4PCY",
+      "mins": 6,
+      "secs": 0,
+      "milisecs": "000",
+      "date": "16/11/2025",
+      "percent": "100"
+    }
+  ]
 }
