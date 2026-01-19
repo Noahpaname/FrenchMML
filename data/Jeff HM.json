@@ -6,7 +6,26 @@
     "verifier": "Aresse",
     "verification": "https://www.youtube.com/watch?v=sofg4iRJ920",
     "percentToQualify": "100",
-    "password": "6 minutes",
+    "password": "N/A",
     "date": "19/10/2025",
-    "records": []
+    "records": [
+        {
+            "user": "Schokie",
+            "link": "https://youtu.be/vw7_gtoSl-4?si=_Pxs1CrYntzpR1TA",
+            "mins": 6,
+            "secs": 2,
+            "milisecs": "000",
+            "date": "11/11/2025",
+		    "percent": "100"
+        },
+        {
+            "user": "Jord'X",
+            "link": "https://youtu.be/3oISB4MLrUM?si=VUC-pwOXlvtUVbiQ",
+            "mins": 5,
+            "secs": 14,
+            "milisecs": "000",
+            "date": "22/11/2025",
+		    "percent": "100"
+        }
+    ]
 }
