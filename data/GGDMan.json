@@ -8,5 +8,15 @@
   "percentToQualify": "100",
   "password": "12m 27sec",
   "date": "16/09/2025",
-  "records": []
+  "records": [
+      {
+		"user": "Skybag",
+		"link": "https://youtu.be/0pDIC1ZZBeA",
+		"mins": 12,
+		"secs": 27,
+		"milisecs": "000",
+		"date": "17/01/2026",
+		"percent": "100"
+    }
+  ]
 }
