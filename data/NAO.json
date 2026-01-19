@@ -64,6 +64,15 @@
 		"percent": "100"
 		},
         {
+      "user": "Jord'X",
+      "link": "https://www.youtube.com/watch?v=qz2uVZQfJp4",
+      "mins": 6,
+      "secs": 0,
+      "milisecs": "000",
+      "date": "02/11/2025",
+      "percent": "100"
+    }
+        {
       "user": "Zoluu",
       "link": "https://youtu.be/O0Ffz3hI0h8?si=CefKQBIU_d3Zex4a",
       "mins": 6,
@@ -72,7 +81,7 @@
       "date": "06/11/2025",
       "percent": "100"
     },
-        {
+    {
       "user": "Jess",
       "link": "https://youtu.be/IvqpRqZup6o?si=bD5_VCD2w1FtvJlQ&t=371",
       "mins": 6,
@@ -83,6 +92,7 @@
     }
   ]
 }
+
 
 
 
