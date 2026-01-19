@@ -3,10 +3,20 @@
   "name": "Min Mode",
   "author": "One Easy Night at Frogger's",
   "creators": ["Mr. Manatee, Matt Warkoski"],
-  "verifier": "Sfan",
-  "verification": "https://www.youtube.com/watch?v=Yvu46CxiXjg",
+  "verifier": "Jord'X",
+  "verification": "https://www.youtube.com/watch?v=GzPzUUPcG-0",
   "percentToQualify": "100",
   "password": "N/A",
-  "date": "08/11/2025",
-  "records": []
+  "date": "02/10/2025",
+  "records": [
+  {
+      "user": "Sfan",
+      "link": "https://www.youtube.com/watch?v=Yvu46CxiXjg",
+      "mins": 5,
+      "secs": 29,
+      "milisecs": "984",
+      "date": "08/11/2025",
+      "percent": "100"
+    }
+  ]
 }
