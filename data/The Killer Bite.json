@@ -3,10 +3,20 @@
   "name": "The Killer Bite",
   "author": "Lost Location Custom Night",
   "creators": ["KeplerFNAF"],
-  "verifier": "Sfan",
-  "verification": "https://youtu.be/d2eCyuRdQCI",
+  "verifier": "Jord'X",
+  "verification": "https://youtu.be/nYeZHd3NmBU?si=2vvUJfjouDEIEC1R",
   "percentToQualify": "100",
   "password": "N/A",
-  "date": "27/10/2025",
-  "records": []
+  "date": "25/10/2025",
+  "records": [
+      {
+            "user": "Sfan",
+            "link": "https://youtu.be/d2eCyuRdQCI",
+            "mins": 7,
+            "secs": 39,
+            "milisecs": "000",
+            "date": "27/10/2025",
+		    "percent": "100"
+        }
+  ]
 }
