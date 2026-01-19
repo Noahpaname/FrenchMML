@@ -4,11 +4,20 @@
   "author": "Girl's Night",
   "creators": ["ITDEER"],
   "verifier": "Ytorad",
-  "verification": "https://youtu.be/1ez_4LfNkbo?si=gP6i9y1Pth9WgNwx&t=237",
+  "verification": "https://www.youtube.com/watch?v=BRr9_9bb0JQ",
   "percentToQualify": "100",
   "password": "3m 41sec 186ms",
-  "date": "28/08/2025",
+  "date": "18/04/2025",
   "records": [
+      {
+      "user": "Ytorad",
+      "link": "https://youtu.be/1ez_4LfNkbo?si=gP6i9y1Pth9WgNwx&t=237",
+      "mins": 3,
+      "secs": 41,
+      "milisecs": "186",
+      "date": "28/08/2025",
+      "percent": "100"
+    },
       {
       "user": "Ixo",
       "link": "https://youtu.be/G6y1rE4k0vk?si=05jr8ofzxpHlj4hJ",
