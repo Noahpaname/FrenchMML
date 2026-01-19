@@ -3,10 +3,20 @@
   "name": "How Did We Get Here?+",
   "author": "Lost Location Custom Night",
   "creators": ["KeplerFNAF"],
-  "verifier": "Sfan",
-  "verification": "https://youtu.be/dMxSiPOrrmk",
+  "verifier": "Jord'X",
+  "verification": "https://youtu.be/u8_kSBaQ5yQ?si=AJtMjLi0iAjMtspr",
   "percentToQualify": "100",
   "password": "N/A",
-  "date": "28/10/2025",
-  "records": []
+  "date": "25/10/2025",
+  "records": [
+      {
+		"user": "Sfan",
+		"link": "https://youtu.be/dMxSiPOrrmk",
+		"mins": 25,
+		"secs": 38,
+		"milisecs": "000",
+		"date": "28/10/2025",
+		"percent": "100"
+      }
+  ]
 }
