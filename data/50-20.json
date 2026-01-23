@@ -116,6 +116,15 @@
             "milisecs": "000",
             "date": "27/11/2025",
 			"percent": "100"
+        },
+        {
+            "user": "[Alexion]",
+            "link": "https://www.youtube.com/watch?v=3fkUlIoXPmo",
+            "mins": 4,
+            "secs": 30,
+            "milisecs": "000",
+            "date": "23/01/2026",
+			"percent": "100"
         }
     ]
 }
