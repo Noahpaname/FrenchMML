@@ -1,0 +1,22 @@
+{
+  "id": "https://gamejolt.com/games/onaf2/124882",
+  "name": "Hard Boiled Mode No Exposure",
+  "author": "One Night at Flumpty's 2",
+  "creators": ["Jonochrome"],
+  "verifier": "Le Roi Boo Lorrain",
+  "verification": "https://www.youtube.com/watch?v=h7asAOI5lqE",
+  "percentToQualify": "100",
+  "password": "9 minutes",
+  "date": "21/09/2025",
+  "records": [
+      {
+        "user": "Jord'X",
+        "link": "https://www.youtube.com/watch?v=YKJ9pIqe_7w",
+        "mins": 9,
+        "secs": 0,
+        "milisecs": "000",
+        "date": "06/10/2025",
+	    "percent": "100"
+       }
+]
+}
