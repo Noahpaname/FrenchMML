@@ -1,0 +1,31 @@
+{
+    "id": "https://www.roblox.com/games/15267322492/DISCONTINUED-Five-Nights-at-The-Gangs#!/about",
+    "name": "Eternal Pizza Man",
+    "author": "Five Nights at The Gang's",
+    "creators": ["TryFlyYT", "TheAshton2000"],
+    "verifier": "Daléo",
+    "verification": "https://youtu.be/hyM93NoRgRE?si=rR9TlqM3hdCSo2zf",
+    "percentToQualify": "100",
+    "password": "12m 27sec",
+    "date": "28/01/2026",
+    "records": [
+	{
+		"user": "Sfan",
+		"link": "https://youtu.be/swIPHJ54W8E?si=-iW92he9RQIDT-Cr",
+		"mins": 12,
+		"secs": 27,
+		"milisecs": "000",
+		"date": "29/01/2026",
+		"percent": "100"
+	},
+  {
+		"user": "Jord'X",
+		"link": "https://youtu.be/ab5GY9Jcw4E?si=7pYxkCKX26_IBMrmg",
+		"mins": 12,
+		"secs": 27,
+		"milisecs": "000",
+		"date": "30/01/2026",
+		"percent": "100"
+	}
+]
+}
