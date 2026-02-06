@@ -3,12 +3,21 @@
     "name": "Eternal Pizza Man",
     "author": "Five Nights at The Gang's: Definitive Edition",
     "creators": ["Geodude"],
-    "verifier": "Daléo",
-    "verification": "https://youtu.be/hyM93NoRgRE?si=rR9TlqM3hdCSo2zf",
+    "verifier": "zThund3r",
+    "verification": "https://youtu.be/jOVE8wOFc-Q?si=BpKA5y6LyoyhDM_G",
     "percentToQualify": "100",
     "password": "12m 27sec",
-    "date": "28/01/2026",
+    "date": "25/01/2026",
     "records": [
+        {
+		"user": "Daléo",
+		"link": "https://youtu.be/hyM93NoRgRE?si=rR9TlqM3hdCSo2zf",
+		"mins": 12,
+		"secs": 27,
+		"milisecs": "000",
+		"date": "28/01/2026",
+		"percent": "100"
+	},
 	{
 		"user": "Sfan",
 		"link": "https://youtu.be/swIPHJ54W8E?si=-iW92he9RQIDT-Cr",
