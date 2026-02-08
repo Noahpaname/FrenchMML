@@ -74,16 +74,26 @@
 		},
         {
 		"user": "Lili",
-		"link": "https://www.youtube.com/watch?v=mlwh79UuxXg&t=145s",
+		"link": "https://youtu.be/mlwh79UuxXg?si=pPK1lWQ0CComlW5E",
 		"mins": 7,
 		"secs": 0,
 		"milisecs": "000",
 		"date": "03/12/2025",
 		"percent": "100"
+		},
+        {
+		"user": "Darklight",
+		"link": "https://www.youtube.com/watch?v=k2BrTA9S0W4",
+		"mins": 7,
+		"secs": 0,
+		"milisecs": "000",
+		"date": "05/02/2026",
+		"percent": "100"
 		}
 	]
 
 }
+
 
 
 
