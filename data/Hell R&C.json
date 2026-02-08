@@ -8,5 +8,15 @@
   "percentToQualify": "100",
   "password": "8 minutes",
   "date": "17/01/2025",
-  "records": []
+  "records": [
+      {
+       "user": "Zoluu",
+       "link": "https://youtu.be/YUjUcI4fj90?si=_1HTuIQOR5qX7-Yy",
+       "mins": 8,
+       "secs": 0,
+       "milisecs": "000",
+       "date": "08/02/2026",
+       "percent": "100"
+      }
+  ]
 }
