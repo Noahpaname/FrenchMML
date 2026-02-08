@@ -8,5 +8,15 @@
     "percentToQualify": "100",
     "password": "6 minutes",
     "date": "25/01/2026",
-    "records": []
+    "records": [
+        {
+      "user": "Schokie",
+      "link": "https://youtu.be/L2eGlb6kia8?si=Y0jI2A6keRI31JpH",
+      "mins": 6,
+      "secs": 0,
+      "milisecs": "000",
+      "date": "07/02/2026",
+      "percent": "100"
+    }
+    ]
 }
