@@ -54,6 +54,15 @@
 		"date": "15/03/2025",
 		"percent": "100"
 		},
+        {
+		"user": "FazDrone-K193",
+		"link": "https://www.youtube.com/watch?v=oDCbLUBo7B0",
+		"mins": 6,
+		"secs": 0,
+		"milisecs": "000",
+		"date": "12/07/2025",
+		"percent": "100"
+		},
 		{
 		"user": "zThund3r",
 		"link": "https://youtu.be/846MB5mJH64?si=kkfkXksczUUx524v",
@@ -84,6 +93,7 @@
 	]
 
 }
+
 
 
 
