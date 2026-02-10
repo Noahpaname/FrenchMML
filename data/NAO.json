@@ -82,6 +82,15 @@
       "percent": "100"
     },
     {
+         "user": "FazDrone-K193",
+          "link": "https://youtu.be/M6arsnnFX3g?si=pMwcgXP-QsxiJXpw",
+         "mins": 6,
+         "secs": 0,
+        "milisecs": "000",
+        "date": "05/12/2025",
+		"percent": "100"
+        },
+    {
       "user": "Jess",
       "link": "https://youtu.be/IvqpRqZup6o?si=bD5_VCD2w1FtvJlQ&t=371",
       "mins": 6,
@@ -101,6 +110,7 @@
         }
   ]
 }
+
 
 
 
