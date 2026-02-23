@@ -6,7 +6,17 @@
     "verifier": "zapher25",
     "verification": "https://youtu.be/9MM67dNqqgA?si=63edOuD3BnkV3wih",
     "percentToQualify": "100",
-    "password": "7 min+",
+    "password": "7 min",
     "date": "01/09/2025",
-    "records": []
+    "records": [
+    {
+      "user": "Renoah",
+      "link": "https://www.youtube.com/watch?v=QlmIeHSfTQE",
+      "mins": 7,
+      "secs": 0,
+      "milisecs": "000",
+      "date": "28/20/2025",
+      "percent": "100"
+    },
+    ]
 }
