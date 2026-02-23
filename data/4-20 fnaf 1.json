@@ -47,7 +47,7 @@
 		},
 		{
 		"user": "Le Roi Boo Lorrain",
-		"link": "https://youtu.be/Sc4Ad198U04?si=ejAbG4t1T5BJVbTf",
+		"link": "https://youtu.be/Sc4Ad198U04",
 		"mins": 8,
 		"secs": 55,
 		"milisecs": "000",
@@ -56,7 +56,7 @@
 		},
         {
 		"user": "Anonyme Bws",
-		"link": "https://youtu.be/8uMVw9WevQk?si=iTFjn4qezuB_KnVK&t=1449",
+		"link": "https://youtu.be/8uMVw9WevQk?t=1449",
 		"mins": 8,
 		"secs": 55,
 		"milisecs": "000",
@@ -65,7 +65,7 @@
 		},
 		{
 		"user": "Renoah",
-		"link": "https://youtu.be/HcsvnRxUpcA?si=HDhyhpJZBEFZ8N1o",
+		"link": "https://youtu.be/HcsvnRxUpcA",
 		"mins": 8,
 		"secs": 55,
 		"milisecs": "000",
@@ -74,7 +74,7 @@
 		},
         {
 		"user": "Fazzilla",
-		"link": "https://youtu.be/SR7ifMl8iVc?si=Tl1SJmTRIwIpwYJW",
+		"link": "https://youtu.be/SR7ifMl8iVc",
 		"mins": 8,
 		"secs": 55,
 		"milisecs": "000",
@@ -83,7 +83,7 @@
 		},
 		{
 		"user": "Admax78",
-		"link": "https://youtu.be/XBfCpSLIQ2Q?si=uiXS67j5tSboM_FN",
+		"link": "https://youtu.be/XBfCpSLIQ2Q",
 		"mins": 8,
 		"secs": 55,
 		"milisecs": "000",
@@ -101,7 +101,7 @@
 		},
         {
 		"user": "Frozox",
-		"link": "https://youtu.be/OdN9PHFlzag?si=bJ7-veB5ik--s-j",
+		"link": "https://youtu.be/OdN9PHFlzag",
 		"mins": 8,
 		"secs": 55,
 		"milisecs": "000",
@@ -110,7 +110,7 @@
 		},
         {
 		"user": "Jord'X",
-		"link": "https://youtu.be/_BKFXF9rqEM?si=v6t1yCcegdyNRFh_",
+		"link": "https://youtu.be/_BKFXF9rqEM",
 		"mins": 8,
 		"secs": 55,
 		"milisecs": "000",
@@ -128,16 +128,26 @@
 		},
         {
 		"user": "ioi890",
-		"link": "https://youtu.be/XucOz81oZbM?si=Vti2Ce2LzyLgqrlh",
+		"link": "https://youtu.be/XucOz81oZbM",
 		"mins": 8,
 		"secs": 55,
 		"milisecs": "000",
 		"date": "23/12/2025",
 		"percent": "100"
+		},
+        {
+		"user": "BlitzzNoob",
+		"link": "https://www.youtube.com/watch?v=jhfrAr-yYGU",
+		"mins": 8,
+		"secs": 55,
+		"milisecs": "000",
+		"date": "17/02/2026",
+		"percent": "100"
 		}
 	]
 
 }
+
 
 
 
