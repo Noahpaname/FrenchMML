@@ -8,5 +8,15 @@
   "percentToQualify": "100",
   "password": "6 minutes",
   "date": "08/10/2025",
-  "records": []
+  "records": [
+        {
+            "user": "Natzu_fps",
+            "link": "https://www.youtube.com/watch?v=94Afj5OT0gI",
+            "mins": 6,
+            "secs": 0,
+            "milisecs": "000",
+            "date": "26/02/2026",
+		    "percent": "100"
+        }
+  ]
 }
