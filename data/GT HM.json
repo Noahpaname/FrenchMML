@@ -8,5 +8,15 @@
   "percentToQualify": "100",
   "password": "6 minutes",
   "date": "13/07/2025",
-  "records": []
+  "records": [
+          {
+            "user": "[Alexion]",
+            "link": "https://www.youtube.com/watch?v=EHY4iNTwZ2U",
+            "mins": 6,
+            "secs": 0,
+            "milisecs": "000",
+            "date": "25/02/2026",
+		    "percent": "100"
+        }
+  ]
 }
