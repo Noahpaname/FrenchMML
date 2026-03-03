@@ -73,6 +73,15 @@
 		"percent": "100"
 	},
     {
+		"user": "Letanguu",
+		"link": "https://www.youtube.com/watch?v=-OKobTwpPcA",
+		"mins": 12,
+		"secs": 27,
+		"milisecs": "000",
+		"date": "19/02/2026",
+		"percent": "100"
+	},
+    {
 		"user": "noka",
 		"link": "https://www.youtube.com/watch?v=3V4N9iq0m-s",
 		"mins": 12,
@@ -92,6 +101,7 @@
 	}
     ]
 }
+
 
 
 
