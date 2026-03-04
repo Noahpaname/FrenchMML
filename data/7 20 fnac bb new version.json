@@ -1,0 +1,31 @@
+{
+    "id": "https://www.mediafire.com/file/knu08xogb2zfhrx/fnac1-cn-v2.2.1.exe/file",
+    "name": "7/20",
+    "author": "FNaC 1 Custom Night",
+    "creators": ["Mr. Manatee"],
+    "verifier": "Schokie",
+    "verification": "https://www.youtube.com/watch?v=Tv1RAhI8IGo",
+    "percentToQualify": "100",
+    "password": "6 minutes",
+    "date": "27/02/2026",
+    "records": [
+    {
+		"user": "Aresse",
+		"link": "https://www.youtube.com/watch?v=0PmryeYAfZM",
+		"mins": 6,
+		"secs": 0,
+		"milisecs": "000",
+		"date": "04/03/2026",
+		"percent": "100"
+		},
+    {
+		"user": "Admax78",
+		"link": "https://www.youtube.com/watch?v=CPe0clGSojo",
+		"mins": 6,
+		"secs": 0,
+		"milisecs": "000",
+		"date": "04/03/2026",
+		"percent": "100"
+		}
+    ]
+}
