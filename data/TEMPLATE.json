@@ -1,12 +1,12 @@
 {
-	"id": "GAME LINK",
-	"name": "MAX MODE NAME",
-	"author": "GAME NAME",
+	"id": "GAMELINK",
+	"name": "MAXMODENAME",
+	"author": "GAMENAME",
 	"creators": ["CREATOR1"],
 	"verifier": "VERIFIER",
-	"verification": "YTB LINK",
+	"verification": "YTBLINK",
 	"percentToQualify": "100",
-	"password": "MAX MODE DURATION",
+	"password": "MAXMODEDURATION",
 	"date": "DD/MM/YY",
 	"records": [
 		{
