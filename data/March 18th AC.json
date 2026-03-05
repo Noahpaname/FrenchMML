@@ -8,5 +8,15 @@
   "percentToQualify": "100",
   "password": "6m 30sec",
   "date": "05/11/2025",
-  "records": []
+  "records": [
+      {
+		"user": "Muraki",
+		"link": "https://youtu.be/pU50DxCOqWU?si=uJSk6r9qKvZqse1L",
+		"mins": 6,
+		"secs": 30,
+		"milisecs": "000",
+		"date": "03/03/2026",
+		"percent": "100"
+    }
+  ]
 }
