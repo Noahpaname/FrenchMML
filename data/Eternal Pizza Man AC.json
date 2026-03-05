@@ -6,7 +6,17 @@
   "verifier": "zThund3r",
   "verification": "https://www.youtube.com/watch?v=jOVE8wOFc-Q",
   "percentToQualify": "100",
-  "password": "25 minutes",
+  "password": "24m 54sec",
   "date": "25/01/2026",
-  "records": []
+  "records": [
+      {
+            "user": "Jord'X",
+            "link": "https://youtu.be/moUuMHzH7Kg?si=2d0zzCE8h1LxQvR6",
+            "mins": 24,
+            "secs": 54,
+            "milisecs": "000",
+            "date": "24/02/2026",
+			      "percent": "100"
+        }
+  ]
 }
