@@ -8,5 +8,15 @@
   "percentToQualify": "100",
   "password": "5m 50 sec",
   "date": "22/07/2025",
-  "records": []
+  "records": [
+      {
+		"user": "Aresse",
+		"link": "https://youtu.be/QZO_pyx7wbk?si=90uSScmzYlJeZ0zg",
+		"mins": 10,
+		"secs": 0,
+		"milisecs": "000",
+		"date": "13/10/2025",
+		"percent": "100"
+		}
+  ]
 }
