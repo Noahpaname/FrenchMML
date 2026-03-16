@@ -9,7 +9,7 @@
     "password": "6 minutes",
     "date": "22/05/2025",
     "records": [
-        {
+       <
             "user": "Ytorad",
             "link": "https://youtu.be/fS7Y5hgfywU?si=NJO7plMJzn8-heJf&t=373",
             "mins": 6,
@@ -17,6 +17,15 @@
             "milisecs": "000",
             "date": "19/10/2025",
 		    "percent": "100"
-        }
+      }, 
+         {
+		 "user": "Fallen_Moonlight_",
+		 "link": "https://youtu.be/c-vkAKCRLDQ?is=U316OA8jA2ASoaJQ",
+		 "mins": 7,
+		 "secs": 0,
+		 "milisecs": "000",
+		 "date": "14/03/2026",
+		 "percent": "100"
+		}
     ]
 }
