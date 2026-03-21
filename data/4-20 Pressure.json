@@ -3,12 +3,21 @@
     "name": "4/20",
     "author": "Pressure",
     "creators": ["Urbanshade: Hadal Division"],
-    "verifier": "Le Roi Boo Lorrain",
-    "verification": "https://www.youtube.com/live/S6EX9qfSrY8?t=8414s",
+    "verifier": "Under_player",
+    "verification": "https://youtu.be/XgyxJt7Vk2A?si=1XkqzbCACm5ku3b5",
     "percentToQualify": "100",
     "password": "6 minutes",
-    "date": "01/08/2025",
+    "date": "02/04/2025",
     "records": [
+        {
+            "user": "Le Roi Boo Lorrain",
+            "link": "https://youtu.be/kcTVkvjNvb0",
+            "mins": 6,
+            "secs": 0,
+            "milisecs": "000",
+            "date": "01/08/2025",
+		    "percent": "100"
+        },
         {
             "user": "Sfan",
             "link": "https://youtu.be/kcTVkvjNvb0",
