@@ -3,10 +3,20 @@
     "name": "Monstergami Night",
     "author": "FNaC 3 Deluxe",
     "creators": ["Official_LR"],
-    "verifier": "Aresse",
-    "verification": "https://youtu.be/90KzAUzQa5o?si=ZLa6q-GEn-kbYK9O",
+    "verifier": "Admax78",
+    "verification": "https://youtu.be/J1UpRhOQnfw",
     "percentToQualify": "100",
     "password": "N/A",
-    "date": "30/01/2025",
-    "records": []
+    "date": "13/03/2026",
+    "records": [
+        {
+      "user": "Aresse",
+      "link": "https://youtu.be/zpPMc6Y4soc?si=Z-b0qsZH9ylbIpV3",
+      "mins": 7,
+      "secs": 19,
+      "milisecs": "000",
+      "date": "14/03/2025",
+      "percent": "100"
+    }
+    ]
 }
