@@ -39,14 +39,6 @@ export default {
             </div>
             <div class="level-container">
                 <div class="level" v-if="level">
-                <div class="fr-search-bar" role="search">
-                    <label class="fr-label" for="search-input">
-                        Rechercher
-                    </label>
-                    <input class="fr-input" aria-describedby="search-input-messages" placeholder="Rechercher" id="search-input" type="search">
-                    <div class="fr-messages-group" id="search-input-messages" aria-live="polite">
-                    </div>
-                </div>
                     <h1>{{ level.name }}</h1>
                     <LevelAuthors :author="level.author" :creators="level.creators" :verifier="level.verifier" :date="level.date"></LevelAuthors>
                     <iframe class="video" id="videoframe" :src="video" frameborder="0"></iframe>
