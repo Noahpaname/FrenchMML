@@ -21,8 +21,7 @@ export default {
             <Spinner></Spinner>
         </main>
 		<main v-else class="page-list">
-            <div class="list-container">
-            <script>
+        <script>
             window.addEventListener('load', ()=>{
                 let searchBar = document.querySelector("#search-bar")
 
@@ -37,6 +36,7 @@ export default {
                 }
             })
             </script>
+            <div class="list-container">
                 <table class="list" v-if="list">
                     <tr v-for="([level, err], i) in list">
                         <td class="rank">
