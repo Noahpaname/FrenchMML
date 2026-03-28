@@ -21,21 +21,6 @@ export default {
             <Spinner></Spinner>
         </main>
 		<main v-else class="page-list">
-        <script>
-            window.addEventListener('load', ()=>{
-                let searchBar = document.querySelector("#search-bar")
-
-                searchBar.addEventListener('keyup', searchElement)
-
-                function searchElement(event) {
-                    for (mode of document.querySelectorAll("level?.name"))
-                        if (mode.textContent.toLowerCase().includes(event.target.value.toLowerCase()))
-                            mode.style.display = "block"
-                        else
-                            mode.style.display = "none"
-                }
-            })
-            </script>
             <div class="list-container">
                 <table class="list" v-if="list">
                     <tr v-for="([level, err], i) in list">
