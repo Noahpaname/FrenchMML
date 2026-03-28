@@ -29,7 +29,7 @@ export default {
                 searchBar.addEventListener('keyup', searchElement)
 
                 function searchElement(event) {
-                    for (mode of document.querySelectorAll("../../../data/_list.json"))
+                    for (mode of document.querySelectorAll("level?.name"))
                         if (mode.textContent.toLowerCase().includes(event.target.value.toLowerCase()))
                             mode.style.display = "block"
                         else
