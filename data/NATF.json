@@ -9,14 +9,14 @@
 	"password": "6 minutes",
 	"date": "27/02/2026",
 	"records": [
-        {
-		"user": "Hexzo",
-		"link": "https://youtu.be/Ev9rlH0lOWQ",
-		"mins": 6,
-		"secs": 0,
-		"milisecs": "000",
-		"date": "29/03/2026",
-		"percent": "100"
-		}
+            {
+		        "user": "Hexzo",
+		        "link": "https://youtu.be/Ev9rlH0lOWQ",
+		        "mins": 6,
+		        "secs": 0,
+		        "milisecs": "000",
+	        	"date": "29/03/2026",
+		        "percent": "100"
+		    }
     ]
 }
