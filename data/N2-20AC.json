@@ -9,6 +9,15 @@
   "password": "6 minutes",
   "date": "28/03/2026",
   "records": [
+      {
+            "user": "Ytorad",
+            "link": "https://youtu.be/8IjVjIVxPaI?si=xhfH4_4H6GbvLJDB",
+            "mins": 6,
+            "secs": 0,
+            "milisecs": "000",
+            "date": "29/03/2026",
+		    "percent": "100"
+        },
 {
             "user": "Moon",
             "link": "https://youtu.be/bkebQ1Al7sM",
