@@ -8,5 +8,24 @@
   "percentToQualify": "100",
   "password": "N/A",
   "date": "17/03/2026",
-  "records": []
+  "records": [
+      {
+            "user": "Admax78",
+            "link": "https://youtu.be/cLL6IRi9evQ?si=3J-Ht8zzo7f5PZl9",
+            "mins": 6,
+            "secs": 25,
+            "milisecs": "401",
+            "date": "17/03/2026",
+			"percent": "100"
+     },
+      {
+            "user": "Renoah",
+            "link": "https://youtu.be/P_CUZQKn1-w?si=l-xQdoVBriTtzLMK",
+            "mins": 5,
+            "secs": 33,
+            "milisecs": "851",
+            "date": "17/03/2026",
+			"percent": "100"
+     }
+  ]
 }
