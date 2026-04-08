@@ -9,6 +9,23 @@
     "percentToQualify": "100",
     "password": "N/A",
     "records": [
-        https://youtu.be/RJlL3SSKiuE?si=fgSupIQnIUoHhb1M
+          {
+		"user": "Admax78",
+		"link": "https://youtu.be/PRvA733FdGE?si=5SNwKU1UlvzKJHVd",
+		"mins": 6,
+		"secs": 0,
+		"milisecs": "000",
+		"date": "15/03/2026",
+		"percent": "100"
+    },
+        {
+		"user": "Moon",
+		"link": "https://www.youtube.com/watch?v=RJlL3SSKiuE",
+		"mins": 6,
+		"secs": 0,
+		"milisecs": "000",
+		"date": "22/03/2026",
+		"percent": "100"
+    }
     ]
 }
