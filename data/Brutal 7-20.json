@@ -3,10 +3,20 @@
     "name": "Brutal 7/20",
     "author": "FNaC 1 Custom Night",
     "creators": ["Mr. Manatee"],
-    "verifier": "Admax78",
-    "verification": "https://youtu.be/L8J3OTPqE8w",
+    "verifier": "Le Roi Boo Lorrain",
+    "verification": "https://youtu.be/gRDXgdEw-YQ",
     "percentToQualify": "100",
     "password": "6 minutes",
-    "date": "28/03/2026",
-    "records": []
+    "date": "20/03/2026",
+    "records": [
+        {
+		"user": "Admax78",
+		"link": "https://youtu.be/L8J3OTPqE8w",
+		"mins": 6,
+		"secs": 0,
+		"milisecs": "000",
+		"date": "28/03/2026",
+		"percent": "100"
+		}
+    ]
 }
