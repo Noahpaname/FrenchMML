@@ -8,5 +8,15 @@
     "percentToQualify": "100",
     "password": "6m 30sec",
     "date": "11/09/2022",
-    "records": []
+    "records": [
+        {
+      "user": "Renardo_lemon",
+      "link": "https://youtu.be/yIBfKzFazhw?si=rFLiqumpkRstPYz8",
+      "mins": 6,
+      "secs": 30,
+      "milisecs": "000",
+      "date": "15/03/2026",
+      "percent": "100"
+    }
+    ]
 }
