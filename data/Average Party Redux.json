@@ -8,5 +8,15 @@
   "percentToQualify": "100",
   "password": "6 minutes",
   "date": "14/03/2026",
-  "records": []
+  "records": [
+      {
+      "user": "Fallen_Moonlight_",
+      "link": "https://youtu.be/ON-57y78J24?si=ERgFpTvTyKVYNRGI",
+      "mins": 6,
+      "secs": 0,
+      "milisecs": "000",
+      "date": "16/04/2025",
+      "percent": "100"
+    }
+  ]
 }
