@@ -46,6 +46,15 @@
 		"percent": "100"
 		},
         {
+		"user": "Renoah",
+		"link": "https://www.youtube.com/watch?v=HM3FJeRti5w",
+		"mins": 6,
+		"secs": 0,
+		"milisecs": "000",
+		"date": "26/11/2025",
+		"percent": "100"
+		},
+        {
 		"user": "Sfan",
 		"link": "https://medal.tv/fr/clips/lPiHuwMW8IvrnSyuk?invite=cr-MSxxUDcsNDIxMjA4Mjgx",
 		"mins": 6,
@@ -55,12 +64,12 @@
 		"percent": "100"
 		},
         {
-		"user": "Renoah",
-		"link": "https://www.youtube.com/watch?v=HM3FJeRti5w",
+		"user": "Daléo",
+		"link": "https://youtu.be/z9VDZMuLWB8?si=bFb4T0Zjmp0g8iTJ",
 		"mins": 6,
 		"secs": 0,
 		"milisecs": "000",
-		"date": "26/11/2025",
+		"date": "23/01/2026",
 		"percent": "100"
 		}
     ]
