@@ -1,12 +1,12 @@
 {
-    "id": 57436521,
-    "name": "SAMPLELEVEL2",
-    "author": "Solo_Creator",
-    "creators": [],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "id": "https://gamejolt.com/games/BondeesBarnyeardSV/691888",
+    "name": "Nom Du Mode",
+    "author": "Nom du jeu",
+    "creators": ["Créateur"],
+    "verifier": "Verifier",
+    "verification": "Lien vidéo",
     "percentToQualify": "100",
-    "password": "Free To Copy",
+    "password": "DUrée du mode",
     "records": [
     ]
 }
