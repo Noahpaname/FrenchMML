@@ -8,7 +8,7 @@
     "percentToQualify": "100",
     "password": "5 minutes",
     "date": "23/09/2022",
-    "records": []
+    "records": [
      
    },
    {
@@ -23,5 +23,6 @@
     "date": "22/04/2025",
     "records": []
    }
+  ]
 
  }
