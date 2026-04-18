@@ -10,16 +10,16 @@
     "date": "23/09/2022",
     "records": [
    {
-    "id": "https://gamejolt.com/games/fnaf2-ucn/367420",
-    "name": "Ultra Golden Freddy",
-    "author": "Five Nights at Freddy's 2 Ultra Custom Night",
-    "creators": ["astaceres."],
-    "verifier": "[Alexion]",
-    "verification": "https://youtu.be/G51NE1Qhzj4?si=tH3vzxs2NuIPhqfx",
-    "percentToQualify": "100",
-    "password": "5 minutes",
-    "date": "22/04/2025",
-    "records": []
+        "id": "https://gamejolt.com/games/fnaf2-ucn/367420",
+        "name": "Ultra Golden Freddy",
+        "author": "Five Nights at Freddy's 2 Ultra Custom Night",
+        "creators": ["astaceres."],
+        "verifier": "[Alexion]",
+        "verification": "https://youtu.be/G51NE1Qhzj4?si=tH3vzxs2NuIPhqfx",
+        "percentToQualify": "100",
+        "password": "5 minutes",
+        "date": "22/04/2025",
+        "records": []
     }
   ]
  }
