@@ -10,14 +10,29 @@
         "link": "https://www.youtube.com/@Admax78"
     },
     {
-        "role": "helper",
-        "name": "Schokie",
-        "link": "https://www.youtube.com/@Schokie732"
+        "role": "admin",
+        "name": "Le Roi Boo Lorrain",
+        "link": "https://www.youtube.com/@leroiboolorrain2833"
+    },
+    {
+        "role": "admin",
+        "name": "Sfan",
+        "link": "https://www.youtube.com/@Sfangd"
+    },
+    {
+        "role": "admin",
+        "name": "Ytorad",
+        "link": "https://www.youtube.com/@Ytorad"
     },
     {
         "role": "helper",
-        "name": "Le Roi Boo Lorrain",
-        "link": "https://www.youtube.com/@leroiboolorrain2833"
+        "name": "Letanguu",
+        "link": "https://www.youtube.com/@letanguu"
+    },
+    {
+        "role": "trial",
+        "name": "Schokie",
+        "link": "https://www.youtube.com/@Schokie732"
     },
     {
         "role": "trial",
