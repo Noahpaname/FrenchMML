@@ -1,12 +1,12 @@
 {
     "id": "https://gamejolt.com/games/BondeesBarnyeardSV/691888",
-    "name": "Nom Du Mode",
-    "author": "Nom du jeu",
+    "name": "Nom_Du_Mode",
+    "author": "Nom_du_jeu",
     "creators": ["Créateur"],
     "verifier": "Verifier",
-    "verification": "Lien vidéo",
+    "verification": "Lien_vidéo",
     "percentToQualify": "100",
-    "password": "Durée du mode",
-    "date": "Date de la Vérification",
+    "password": "Durée_du_mode",
+    "date": "Date_de_la_Vérification",
     "records": []
 }
