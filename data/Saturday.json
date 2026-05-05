@@ -26,7 +26,7 @@
 		"milisecs": "000",
 		"date": "05/10/2024",
 		"percent": "100"
-		},
+	  },
       {
             "user": "Zoluu",
             "link": "https://youtu.be/1JN5iYPjfZw?si=7KvFr6VQ20DmOKv4",
@@ -35,6 +35,15 @@
             "milisecs": "000",
             "date": "27/11/2025",
 			"percent": "100"
-        }
+      },
+      {
+		"user": "Nighting",
+		"link": "https://youtu.be/Tg5Fy1gBOuY?si=2ZXTqBlz6LpTn3QB&t=2363",
+		"mins": X,
+		"secs": X,
+		"milisecs": "XXX",
+		"date": "17/04/2026",
+		"percent": "100"
+	  }
   ]
 }
