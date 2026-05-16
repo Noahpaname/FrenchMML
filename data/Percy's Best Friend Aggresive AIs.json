@@ -8,5 +8,15 @@
     "percentToQualify": "100",
     "password": "N/A",
     "date": "01/11/2025",
-    "records": []
+    "records": [
+        {
+		"user": "Ranekatyss",
+		"link": "https://youtu.be/enCe6ekyWPo?si=MRZhhhrgt6n6ofRA&t=187",
+		"mins": 5,
+		"secs": 15,
+		"milisecs": "480",
+		"date": "09/05/2026",
+		"percent": "100"
+		}
+    ]
 }
