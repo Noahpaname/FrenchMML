@@ -71,6 +71,24 @@
             "milisecs": "000",
             "date": "20/02/2026",
 			"percent": "100"
-    }    
+    },
+    {
+            "user": "[Alexion]",
+            "link": "https://www.youtube.com/watch?v=UIfa7zFAoyw",
+            "mins": 6,
+            "secs": 0,
+            "milisecs": "000",
+            "date": "14/05/2026",
+			"percent": "100"
+    },
+      {
+            "user": "Fallen_Moonlight_",
+            "link": "https://youtu.be/cqPTZJlTQVQ?si=ZmcuV2hofBN4CbGI&t=1315",
+            "mins": 6,
+            "secs": 0,
+            "milisecs": "000",
+            "date": "18/05/2026",
+			"percent": "100"
+    }
   ]
 }
