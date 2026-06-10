@@ -6,14 +6,14 @@
     "verifier": "DarkMen",
     "verification": "https://youtu.be/Ix7qCTuvxDo?si=XZczk1nxKGRCRr2n",
     "percentToQualify": "100",
-    "password": "8 minutes",
+    "password": "~8m 9sec",
     "date": "02/10/2025",
     "records": [
 		{
 		"user": "Renoah",
 		"link": "https://www.youtube.com/watch?v=WcciFBUCokY",
 		"mins": 8,
-		"secs": 0,
+		"secs": 9,
 		"milisecs": "000",
 		"date": "20/10/2025",
 		"percent": "100"
@@ -22,7 +22,7 @@
 		"user": "Zoluu",
 		"link": "https://youtu.be/WwO5x1tsAC0",
 		"mins": 8,
-		"secs": 0,
+		"secs": 8,
 		"milisecs": "000",
 		"date": "27/10/2025",
 		"percent": "100"
@@ -31,7 +31,7 @@
 		"user": "Jord'X",
 		"link": "https://www.youtube.com/watch?v=-6gfDsx9iYI",
 		"mins": 8,
-		"secs": 0,
+		"secs": 10,
 		"milisecs": "000",
 		"date": "14/11/2025",
 		"percent": "100"
@@ -40,7 +40,7 @@
 		"user": "Admax78",
 		"link": "https://www.youtube.com/watch?v=RcifBJB1dPw",
 		"mins": 8,
-		"secs": 0,
+		"secs": 8,
 		"milisecs": "000",
 		"date": "21/02/2026",
 		"percent": "100"
@@ -49,7 +49,7 @@
 		"user": "Letanguu",
 		"link": "https://youtu.be/SttwlkceJR0",
 		"mins": 8,
-		"secs": 0,
+		"secs": 10,
 		"milisecs": "000",
 		"date": "09/05/2026",
 		"percent": "100"
