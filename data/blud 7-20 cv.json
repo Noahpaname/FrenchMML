@@ -8,5 +8,24 @@
     "percentToQualify": "100",
     "password": "6 minutes",
     "date": "27/02/2026",
-    "records": []
+    "records": [
+        {
+      "user": "Schokie",
+      "link": "https://www.youtube.com/watch?v=pqBWqHENk7c",
+      "mins": 6,
+      "secs": 0,
+      "milisecs": "000",
+      "date": "20/05/2025",
+      "percent": "100"
+    },
+    {
+      "user": "Fallen_Moonlight_",
+      "link": "https://www.youtube.com/watch?v=EJDqEMf_ezs",
+      "mins": 6,
+      "secs": 0,
+      "milisecs": "000",
+      "date": "08/06/2025",
+      "percent": "100"
+    }
+    ]
 }
