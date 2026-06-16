@@ -7,7 +7,7 @@
   "verification": "https://youtu.be/seN1OS4bM4s?si=DOYKzsbAlhYxO3aY",
   "percentToQualify": "100",
   "password": "6 minutes",
-  "date": "18/03/2025",
+  "date": "18/03/2026",
   "records": [
       { 
       "user": "Ytorad",
@@ -15,7 +15,16 @@
       "mins": 6,
       "secs": 0,
       "milisecs": "000",
-      "date": "17/05/2025",
+      "date": "17/05/2026",
+      "percent": "100"
+      },
+      { 
+      "user": "Fallen_Moonlight_",
+      "link": "https://youtu.be/wmt8D0y_4lg?si=vvjkkqtNMDNFshEL",
+      "mins": 6,
+      "secs": 0,
+      "milisecs": "000",
+      "date": "16/06/2026",
       "percent": "100"
       }
   ]
