@@ -6,7 +6,17 @@
     "verifier": "Jord'X",
     "verification": "https://youtu.be/KM1TAVHIrUo?si=fwOYMCPTHxC340PP",
     "percentToQualify": "100",
-    "password": "N/A",
+    "password": "6 minutes",
     "date": "24/11/2025",
-    "records": []
+    "records": [
+        {
+      "user": "TiGIR",
+      "link": "https://www.youtube.com/watch?v=RBVNyBv19LI",
+      "mins": 6,
+      "secs": 0,
+      "milisecs": "000",
+      "date": "23/06/2026",
+      "percent": "100"
+    }
+    ]
 }
