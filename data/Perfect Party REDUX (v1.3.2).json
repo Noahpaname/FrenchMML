@@ -1,0 +1,40 @@
+{
+  "id": "https://gamejolt.com/games/SLR/1043220",
+  "name": "Perfect Party (v1.3.2)",
+  "author": "Sister Location REDUX",
+  "creators": ["mirk8lik3"],
+  "verifier": "DarkMen",
+  "verification": "https://youtu.be/e4YaRsor6LU?si=pHvCJ-uwEDvlzR4f",
+  "percentToQualify": "100",
+  "password": "6 minutes",
+  "date": "14/03/2025",
+  "records": [
+      { 
+      "user": "Ytorad",
+      "link": "https://youtu.be/2pnbP2JRM6I?si=1oJxaS7TfrDG0HUy&t=415",
+      "mins": 6,
+      "secs": 0,
+      "milisecs": "000",
+      "date": "17/05/2025",
+      "percent": "100"
+      },
+      {
+      "user": "[Alexion]",
+      "link": "https://youtu.be/2pnbP2JRM6I?si=1oJxaS7TfrDG0HUy&t=415",
+      "mins": 6,
+      "secs": 0,
+      "milisecs": "000",
+      "date": "20/05/2025",
+      "percent": "100"
+      },
+      {
+      "user": "Fallen_Moonlight_",
+      "link": "https://youtu.be/6rRShlQi87g?si=VWRY5CY2YPUqo49V",
+      "mins": 6,
+      "secs": 0,
+      "milisecs": "000",
+      "date": "31/05/2025",
+      "percent": "100"
+      }
+  ]
+}
