@@ -1,0 +1,49 @@
+{
+  "id": "https://gamejolt.com/games/SLR/1043220",
+  "name": "Average Party (v1.3.2)",
+  "author": "Sister Location REDUX",
+  "creators": ["mirk8lik3"],
+  "verifier": "DarkMen",
+  "verification": "https://youtu.be/e4YaRsor6LU?si=kKV6nDMfTM06h-Bk",
+  "percentToQualify": "100",
+  "password": "6 minutes",
+  "date": "14/03/2026",
+  "records": [
+      {
+      "user": "Fallen_Moonlight_",
+      "link": "https://youtu.be/ON-57y78J24?si=ERgFpTvTyKVYNRGI",
+      "mins": 6,
+      "secs": 0,
+      "milisecs": "000",
+      "date": "16/04/2025",
+      "percent": "100"
+    },
+    {
+      "user": "Aresse",
+      "link": "https://youtu.be/9zeaPTQubWA?si=EoydaAYfUQ7OaTyq",
+      "mins": 6,
+      "secs": 0,
+      "milisecs": "000",
+      "date": "17/05/2026",
+      "percent": "100"
+    },
+    { 
+      "user": "Ytorad",
+      "link": "https://www.youtube.com/watch?v=bDSNJdutzo8",
+      "mins": 6,
+      "secs": 0,
+      "milisecs": "000",
+      "date": "17/05/2025",
+      "percent": "100"
+    },
+    {
+      "user": "[Alexion]",
+      "link": "https://youtu.be/2pnbP2JRM6I?si=1oJxaS7TfrDG0HUy&t=415",
+      "mins": 6,
+      "secs": 0,
+      "milisecs": "000",
+      "date": "20/05/2025",
+      "percent": "100"
+    }
+  ]
+}
