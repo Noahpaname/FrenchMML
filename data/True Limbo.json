@@ -8,5 +8,15 @@
     "percentToQualify": "100",
     "password": "N/A",
     "date": "13/11/2025",
-    "records": []
+    "records": [
+        {
+            "user": "TiGIR",
+            "link": "https://youtu.be/_XU6o3PGVgo",
+            "mins": 38,
+            "secs": 18,
+            "milisecs": "000",
+            "date": "25/06/2026",
+		    "percent": "100"
+        }
+    ]
 }
