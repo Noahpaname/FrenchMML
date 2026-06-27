@@ -1,0 +1,67 @@
+{
+  "id": "https://gamejolt.com/games/SLR/1043220",
+  "name": "Yellow Freddy",
+  "author": "Sister Location REDUX",
+  "creators": ["mirk8lik3"],
+  "verifier": "DarkMen",
+  "verification": "https://youtu.be/e4YaRsor6LU?si=kKV6nDMfTM06h-Bk",
+  "percentToQualify": "100",
+  "password": "6 minutes",
+  "date": "14/03/2026",
+  "records": [
+      {
+            "user": "Schokie",
+            "link": "https://youtu.be/NKE5yn9zbKw?si=6psx4CHZm2I9DAfy",
+            "mins": 6,
+            "secs": 0,
+            "milisecs": "000",
+            "date": "01/04/2026",
+	        "percent": "100"
+      },
+      {
+      "user": "Fallen_Moonlight_",
+      "link": "https://youtu.be/ON-57y78J24?si=L1jfIkMS-9CkV3Is&t=1377",
+      "mins": 6,
+      "secs": 0,
+      "milisecs": "000",
+      "date": "16/04/2026",
+      "percent": "100"
+    },
+      {
+      "user": "Aresse",
+      "link": "https://youtu.be/jDLOB1R6ZTw?si=IF_m8kRKyBI4mFVM",
+      "mins": 6,
+      "secs": 0,
+      "milisecs": "000",
+      "date": "15/05/2026",
+      "percent": "100"
+    },
+    {
+      "user": "Lili",
+      "link": "https://www.youtube.com/watch?v=ks_h78c6vrY",
+      "mins": 6,
+      "secs": 0,
+      "milisecs": "000",
+      "date": "15/05/2026",
+      "percent": "100"
+    },
+       {
+      "user": "Ytorad",
+      "link": "https://youtu.be/XvlLG4uWi8Q?si=u91L6sFsk_2AxsiU",
+      "mins": 6,
+      "secs": 0,
+      "milisecs": "000",
+      "date": "17/05/2026",
+      "percent": "100"
+    },
+    {
+      "user": "[Alexion]",
+      "link": "https://youtu.be/2pnbP2JRM6I?si=1iFhtWQBWPpr4qPG",
+      "mins": 6,
+      "secs": 0,
+      "milisecs": "000",
+      "date": "20/05/2025",
+      "percent": "100"
+    }
+  ]
+}
