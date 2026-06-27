@@ -3,12 +3,30 @@
   "name": "Yellow Freddy",
   "author": "Sister Location REDUX",
   "creators": ["mirk8lik3"],
-  "verifier": "Aresse",
-  "verification": "https://www.youtube.com/watch?v=j79zEjw5zA4",
+  "verifier": "Lili",
+  "verification": "https://www.youtube.com/watch?v=syupnZQRCjA",
   "percentToQualify": "100",
   "password": "6 minutes",
-  "date": "25/06/2026",
+  "date": "24/06/2026",
   "records": [
+    {
+      "user": "Aresse",
+      "link": "https://www.youtube.com/watch?v=j79zEjw5zA4",
+      "mins": 6,
+      "secs": 0,
+      "milisecs": "000",
+      "date": "27/06/2025",
+      "percent": "100"
+    },
+    {
+      "user": "Fallen_Moonlight_",
+      "link": "https://www.youtube.com/watch?v=_t0ZwkN5KlA",
+      "mins": 6,
+      "secs": 0,
+      "milisecs": "000",
+      "date": "27/06/2025",
+      "percent": "100"
+    },
     {
       "user": "[Alexion]",
       "link": "https://youtu.be/JNtNnH16iSI?si=9SuXUpDyrrXwDPci",
