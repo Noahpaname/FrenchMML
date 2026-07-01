@@ -4,9 +4,19 @@
   "author": "Sister Location REDUX",
   "creators": ["mirk8lik3"],
   "verifier": "DarkMen",
-  "verification": "https://youtu.be/c45-ZKOa8Xw",
+  "verification": "https://youtu.be/Dl3k_hQepvE?si=zhuGZre0LviXL_Dr",
   "percentToQualify": "100",
   "password": "6 minutes",
-  "date": "24/06/2026",
-  "records": []
+  "date": "30/06/2026",
+  "records": [
+       {
+		"user": "Ytorad",
+		"link": "https://www.youtube.com/watch?v=bMbz98sl_6Q",
+		"mins": 6,
+		"secs": 0,
+		"milisecs": "000",
+		"date": "30/06/2026",
+		"percent": "100"
+		}
+  ]
 }
