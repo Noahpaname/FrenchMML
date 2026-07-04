@@ -8,5 +8,15 @@
   "percentToQualify": "100",
   "password": "6 minutes",
   "date": "17/01/2026",
-  "records": []
+  "records": [
+      {
+      "user": "DarkMen",
+      "link": "https://youtu.be/aXkK0xQw1vo?si=AErDzIIbmOrknJMk",
+      "mins": 6,
+      "secs": 0,
+      "milisecs": "000",
+      "date": "04/07/2022",
+      "percent": "100"
+    }
+  ]
 }
