@@ -6,7 +6,17 @@
     "verifier": "Schokie",
     "verification": "https://youtu.be/ZSFPxAHVGV0?si=ri3ehujJ7a1u4N42",
     "percentToQualify": "100",
-    "password": "10 minutes",
+    "password": "6 minutes",
     "date": "23/10/2022",
-    "records": []
+    "records": [
+        {
+            "user": "[Alexion]",
+            "link": "https://youtu.be/5DTO1iu46fA?si=pQ6e21LVNKSUZYW6&t=472",
+            "mins": 6,
+            "secs": 0,
+            "milisecs": "000",
+            "date": "22/06/2026",
+		    "percent": "100"
+        }
+    ]
 }
