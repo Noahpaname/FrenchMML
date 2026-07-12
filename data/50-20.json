@@ -161,6 +161,15 @@
             "milisecs": "000",
             "date": "05/05/2026",
 			"percent": "100"
+        },
+        {
+            "user": "Bernard Lenny",
+            "link": "https://youtu.be/BItjs9IgHhE?si=10OvEGIs0NF34liL",
+            "mins": 4,
+            "secs": 30,
+            "milisecs": "000",
+            "date": "10/07/2026",
+			"percent": "100"
         }
     ]
 }
