@@ -9,7 +9,15 @@
 	"password": "7 minutes",
 	"date": "25/08/2025",
 	"records": [
-
+{
+		"user": "Ixo",
+		"link": "https://youtu.be/JENUccDLds8",
+		"mins": 7,
+		"secs": 0,
+		"milisecs": "000",
+		"date": "18/07/2026",
+		"percent": "100"
+		}
 	]
 
 }
