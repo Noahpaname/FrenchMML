@@ -3,12 +3,21 @@
     "name": "Parasitic Pals",
     "author": "Playtime with Percy",
     "creators": ["FazieFunbear"],
-    "verifier": "Skyrem Gaming",
-    "verification": "https://youtu.be/jI3T6iGWvOg?si=jR1KK-Lw09ufdkng",
+    "verifier": "ThatEmilieGal",
+    "verification": "https://youtu.be/Dxoz1aBUEBw?si=BK8M26bbUxVyaWcT",
     "percentToQualify": "100",
     "password": "N/A",
-    "date": "01/10/2024",
+    "date": "16/09/2023",
     "records": [
+        {
+        "user": "Skyrem Gaming",
+        "link": "https://youtu.be/jI3T6iGWvOg?si=jR1KK-Lw09ufdkng",
+        "mins": 10,
+        "secs": 12,
+        "milisecs": "490",
+        "date": "01/10/2024",
+	    "percent": "100"
+        },
         {
 		"user": "Ytorad",
 		"link": "https://youtu.be/nHz3Z34jndc?si=4u7Y2AGCzYkLoxtW",
