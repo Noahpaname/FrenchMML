@@ -26,6 +26,24 @@
             "milisecs": "000",
             "date": "06/05/2026",
 		    "percent": "100"
+        },
+        {
+            "user": "Aresse",
+            "link": "https://youtu.be/EgvYEC5RWpQ",
+            "mins": 7,
+            "secs": 0,
+            "milisecs": "000",
+            "date": "15/07/2026",
+		    "percent": "100"
+        },
+        {
+            "user": "TiGIR",
+            "link": "https://www.youtube.com/watch?v=87TpSBBRVPY",
+            "mins": 7,
+            "secs": 0,
+            "milisecs": "000",
+            "date": "19/07/2026",
+		    "percent": "100"
         }
     ]
 }
