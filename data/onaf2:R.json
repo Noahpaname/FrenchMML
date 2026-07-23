@@ -8,5 +8,15 @@
 	"percentToQualify": "100",
 	"password": "7 minutes",
 	"date": "10/02/2026",
-	"records": []
+	"records": [
+        {
+        "user": "ThatEmilieGal",
+        "link": "https://youtu.be/ht5kehbWL-o?si=t4nv0OH4fvY-ZS-M",
+        "mins": 7,
+        "secs": 0,
+        "milisecs": "000",
+        "date": "29/06/2026",
+	    "percent": "100"
+        }
+]
 }
