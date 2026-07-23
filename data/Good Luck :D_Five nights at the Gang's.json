@@ -8,5 +8,24 @@
     "percentToQualify": "100",
     "password": "3 minutes",
     "date": "20/05/2026",
-    "records": []
+    "records": [
+        {
+		"user": "Aresse",
+		"link": "https://www.youtube.com/watch?v=vM1QK4XRkCc",
+		"mins": 3,
+		"secs": 0,
+		"milisecs": "000",
+		"date": "06/06/2026",
+		"percent": "100"
+		},
+        {
+		"user": "ThatEmilieGal",
+		"link": "https://youtu.be/nHz3Z34jndc?si=f1i5ll_Ps0mJ5RL0&t=707",
+		"mins": 3,
+		"secs": 0,
+		"milisecs": "000",
+		"date": "01/07/2026",
+		"percent": "100"
+		}
+    ]
 }
