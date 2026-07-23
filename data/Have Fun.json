@@ -3,12 +3,21 @@
   "name": "Have Fun :)",
   "author": "Five Nights at The Gang's",
   "creators": ["TryFlyYT", "TheAshton2000"],
-  "verifier": "Skybag",
-  "verification": "https://youtu.be/X9KLz0XbY90?si=aVVZ_jBRh-ZiDSoF",
+  "verifier": "ThatEmilieGal",
+  "verification": "https://youtu.be/c1OXuDhIG7Q?si=crXahIak3vQ3Ntp4",
   "percentToQualify": "100",
   "password": "6 minutes",
-  "date": "02/07/2025",
+  "date": "24/04/2025",
   "records": [
+      {
+       "user": "Skybag",
+       "link": "https://youtu.be/X9KLz0XbY90?si=aVVZ_jBRh-ZiDSoF",
+       "mins": 6,
+       "secs": 0,
+       "milisecs": "000",
+       "date": "02/07/2025",
+       "percent": "100"
+      },
       {
        "user": "FlixoPxf",
        "link": "https://www.youtube.com/watch?v=tH_B4m3Twn4",
