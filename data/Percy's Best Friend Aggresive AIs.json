@@ -3,12 +3,21 @@
     "name": "Percy's Best Friend Aggresive AIs",
     "author": "Playtime with Percy",
     "creators": ["FazieFunbear"],
-    "verifier": "Jord'X",
-    "verification": "https://youtu.be/1F2fWkIlSYw?si=YgE6sddSxlHtsQyn",
+    "verifier": "ThatEmilieGal",
+    "verification": "https://www.youtube.com/watch?v=-eMU9mRbn6Y&t=6s",
     "percentToQualify": "100",
     "password": "N/A",
-    "date": "01/11/2025",
+    "date": "04/12/2023",
     "records": [
+        {
+		"user": "Jord'X",
+		"link": "https://youtu.be/1F2fWkIlSYw?si=YgE6sddSxlHtsQyn",
+		"mins": 3,
+		"secs": 52,
+		"milisecs": "680",
+		"date": "01/11/2025",
+		"percent": "100"
+		},
         {
 		"user": "Ranekatyss",
 		"link": "https://youtu.be/enCe6ekyWPo?si=MRZhhhrgt6n6ofRA&t=187",
