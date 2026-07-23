@@ -8,5 +8,15 @@
     "date": "18/03/2023",
     "percentToQualify": "100",
     "password": "N/A",
-    "records": []
+    "records": [
+        {
+      "user": "ThatEmilieGal",
+      "link": "https://www.youtube.com/watch?v=jUsfbNeryZc&t=3s",
+      "mins": 8,
+      "secs": 53,
+      "milisecs": "380",
+      "date": "14/12/2023",
+      "percent": "100"
+    }
+    ]
 }
