@@ -8,5 +8,15 @@
     "percentToQualify": "100",
     "password": "6 minutes",
     "date": "29/03/2022",
-    "records": []
+    "records": [
+        {
+        "user": "Admax78",
+        "link": "https://www.youtube.com/watch?v=OJJa_7vaxO8",
+        "mins": 6,
+        "secs": 0,
+        "milisecs": "000",
+        "date": "24/07/2026",
+	    "percent": "100"
+        }
+    ]
 }
