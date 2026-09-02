@@ -7,6 +7,6 @@
     "verification": "Lien_vidéo",
     "percentToQualify": "100",
     "password": "Durée_du_mode",
-    "date": "Date_de_la_Vérification",
+    "date": "DD/MM/YYYY",
     "records": []
 }
