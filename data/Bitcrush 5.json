@@ -11,11 +11,20 @@
   "records": [
       {
       "user": "DarkMen",
-      "link": "https://youtu.be/aXkK0xQw1vo?si=AErDzIIbmOrknJMk",
+      "link": "https://www.youtube.com/watch?v=aXkK0xQw1vo",
       "mins": 6,
       "secs": 0,
       "milisecs": "000",
-      "date": "04/07/2022",
+      "date": "04/07/2026",
+      "percent": "100"
+    },
+      {
+      "user": "Jord'X",
+      "link": "https://www.youtube.com/watch?v=Vq0PCqERIl0",
+      "mins": 6,
+      "secs": 0,
+      "milisecs": "000",
+      "date": "14/08/2026",
       "percent": "100"
     }
   ]
