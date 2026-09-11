@@ -8,5 +8,15 @@
     "percentToQualify": "100",
     "password": "5m 50sec",
     "date": "25/09/2022",
-    "records": []
+    "records": [
+        {
+		"user": "Ixo",
+		"link": "YTBLINK",
+		"mins": 0,
+		"secs": 0,
+		"milisecs": "000",
+		"date": "DATE",
+		"percent": "100"
+		}
+    ]
 }
