@@ -8,5 +8,15 @@
     "percentToQualify": "100",
     "password": "4 minutes",
     "date": "26/10/2022",
-    "records": []
+    "records": [
+        {
+		"user": "Lili",
+		"link": "https://youtu.be/J5UYBE0QRas",
+		"mins": 4,
+		"secs": 0,
+		"milisecs": "000",
+		"date": "25/08/2026",
+		"percent": "100"
+		}
+    ]
 }
