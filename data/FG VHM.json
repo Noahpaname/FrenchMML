@@ -8,5 +8,15 @@
   "percentToQualify": "100",
   "password": "6 minutes",
   "date": "18/01/2026",
-  "records": []
+  "records": [
+      {
+      "user": "Jord'X",
+      "link": "https://www.youtube.com/watch?v=mv9bBS58jTQ",
+      "mins": 6,
+      "secs": 0,
+      "milisecs": "000",
+      "date": "25/09/2026",
+      "percent": "100"
+    }
+  ]
 }
