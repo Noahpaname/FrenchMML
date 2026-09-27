@@ -10,6 +10,15 @@
     "date": "18/07/2026",
     "records": [
         {
+		"user": "ThatEmilieGal",
+		"link": "https://www.youtube.com/watch?v=b9bTny3GKNQ",
+		"mins": 3,
+		"secs": 0,
+		"milisecs": "000",
+		"date": "23/07/2026",
+		"percent": "100"
+		},
+        {
 		"user": "Renoah",
 		"link": "https://www.youtube.com/watch?v=48X2ZfTgP2o",
 		"mins": 3,
