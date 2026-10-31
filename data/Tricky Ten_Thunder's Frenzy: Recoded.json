@@ -8,5 +8,42 @@
     "percentToQualify": "100",
     "password": "6 minutes",
     "date": "20/06/2026",
-    "records": []
+    "records": [
+        {
+            "user": "[Alexion]",
+            "link": "https://www.youtube.com/watch?v=F7gWE0FcaVc",
+            "mins": 6,
+            "secs": 0,
+            "milisecs": "000",
+            "date": "29/08/2026",
+		    "percent": "100"
+        },
+        {
+            "user": "Razoreplayerr",
+            "link": "https://youtu.be/lWUQaerhgqA?si=gWO6f_UtELUW5mFr",
+            "mins": 6,
+            "secs": 0,
+            "milisecs": "000",
+            "date": "12/09/2026",
+		    "percent": "100"
+        },
+        {
+            "user": "Admax78",
+            "link": "https://www.youtube.com/watch?v=I4kVvJFcvEc",
+            "mins": 6,
+            "secs": 0,
+            "milisecs": "000",
+            "date": "12/09/2026",
+		    "percent": "100"
+        },
+        {
+            "user": "Zoluu",
+            "link": "https://youtu.be/Van6mzIYxWs",
+            "mins": 6,
+            "secs": 0,
+            "milisecs": "000",
+            "date": "14/09/2026",
+		    "percent": "100"
+        }
+    ]
 }
