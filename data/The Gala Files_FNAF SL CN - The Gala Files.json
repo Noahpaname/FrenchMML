@@ -17,6 +17,24 @@
             "milisecs": "000",
             "date": "15/09/2026",
 		    "percent": "100"
+      },
+    {
+            "user": "[Alexion]",
+            "link": "https://youtu.be/qalBJpjhu2o?si=QwfpFsYNrw4hxPda&t=3514",
+            "mins": 7,
+            "secs": 0,
+            "milisecs": "000",
+            "date": "20/09/2026",
+		    "percent": "100"
+      },
+    {
+            "user": "Schokie",
+            "link": "https://www.youtube.com/watch?v=K7c8hKhVAHM",
+            "mins": 7,
+            "secs": 0,
+            "milisecs": "000",
+            "date": "26/09/2026",
+		    "percent": "100"
       }
     ]
 }
