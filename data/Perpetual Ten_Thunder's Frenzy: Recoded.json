@@ -3,17 +3,17 @@
     "name": "Perpetual Ten",
     "author": "Thunder's Frenzy: Recoded",
     "creators": ["Flairex"],
-    "verifier": "Aresse",
-    "verification": "https://youtu.be/oPyaBjqAVeE",
+    "verifier": "Fallen_Moonlight_",
+    "verification": "https://youtu.be/L3pEl_Oz8Do?si=Rdh2Ey8HtMiukdia",
     "percentToQualify": "100",
     "password": "6 minutes",
-    "date": "06/10/2026",
+    "date": "27/06/2026",
     "records": [ 
         {
 		"user": "Aresse",
 		"link": "https://youtu.be/oPyaBjqAVeE?si=t7wYh8h3bHru1B09",
-		"mins": 2,
-		"secs": 30,
+		"mins": 6,
+		"secs": 00,
 		"milisecs": "000",
 		"date": "06/10/2026",
 		"percent": "100"
